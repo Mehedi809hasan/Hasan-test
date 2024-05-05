@@ -2,6 +2,8 @@
 
 EXTINF:1 group-titel="hasan iptv" tvg-logo="https://drive.google.com/file/d/18oni_fSWmVVhcmjtnc6GQLMd_RRi0NoP/view?usp=drivesdk",ipl geo
 https://bunyhlsipla.bunycdn.com/live/720pa.m3u8
+#EXTINF:-1 group-title="hasan iptv" tvg-logo="https://drive.google.com/file/d/17l4k6MOch2aMW1C4MA0Jg2VBGwGA22GA/view?usp=drivesdk"T sports
+http://103.151.60.214:7444/1000/video.m3u8
 
 
 #EXTINF:-1 group-title="hasan iptv" tvg-logo="https://drive.google.com/file/d/17l4k6MOch2aMW1C4MA0Jg2VBGwGA22GA/view?usp=drivesdk",Asian tv
