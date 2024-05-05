@@ -3,7 +3,7 @@
 EXTINF:1 group-titel="hasan iptv" tvg-logo="",ipl geo
 https://bunyhlsipla.bunycdn.com/live/720pa.m3u8
 
-#EXTINF:1 group-titel="bangldesh tv" tvg-logo="",Amar Bangla
+#EXTINF:1 group-titel="bangldesh tv" tvg-logo="https://vipotv.com/wp-content/uploads/2023/09/Aamar-Bangla-live-vipotv.png",Amar Bangla
 https://live-stream.utkalbongo.com/utkalbongo/stream10/hls/amarbangla.m3u8
 
 #EXTINF:1 group-titel="bangldesh tv" tvg-logo="https://vipotv.com/wp-content/uploads/2021/04/ekattor-tv-live-vipotv.png",71 Tv
@@ -24,7 +24,7 @@ https://raw.githubusercontent.com/gift4bd/ytm/main/EkhonTV.m3u8
 #EXTINF:1 group-titel="hasan iptv" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/e/ec/%E0%A6%8F%E0%A6%B6%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%A8_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg/1200px-%E0%A6%8F%E0%A6%B6%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%A8_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg.png",Asian Tv
 https://mtlivestream.site/asian/ytlive/index.m3u8
 
-#EXTINF:1 group-titel="hasan iptv" tvg-logo="",Dipto Tv
+#EXTINF:1 group-titel="hasan iptv" tvg-logo="https://duronto.tv/global/front//img/kotha.png",Dipto Tv
 http://cdn01.palki.tv/live/DeeptoTV-M/tracks-v1a1/mono.m3u8
 
 #EXTINF:1 group-titel="hasan iptv" tvg-logo="https://tv.bdix.app/chlogo/somoy.web",Somay tv
@@ -93,10 +93,10 @@ https://livess.ncare.live/live-orgin/jagonews24.stream/chunks.m3u8
 #EXTINF:1 group-titel="hasan iptv" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu8HCmRXIV5i61tWmlMRBrt-Aq-SL_snYkK6zORy=s900-c-k-c0x00ffffff-no-rj",Movie Bangla
 https://livess.ncare.live/live-orgin/moviebanglalink2.stream/chunks.m3u8
 
-#EXTINF:1 group-titel="hasan iptv" tvg-logo="",Global Tv
+#EXTINF:1 group-titel="hasan iptv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4uC_Pq3GxVbnflP25-Pl1O4iGzUpFVBD4fg&usqp=CAU",Global Tv
 http://cdn01.palki.tv/live/GlobalTV-M/index.m3u8
 
-#EXTINF:1 group-titel="hasan iptv" tvg-logo=" ",Rtv Music
+#EXTINF:1 group-titel="hasan iptv" tvg-logo="https://www.rtvmusic.com/assets/frontEnd/img/logo.png",Rtv Music
 https://ythls-v2.onrender.com/channel/UCi-aUVwZR5U8GBNOy0CC4ww.m3u8
 
 #EXTINF:1 group-titel="hasan iptv" tvg-logo="https://i0.wp.com/1.bp.blogspot.com/-E6Las0-lxRQ/X9PJNQyA2vI/AAAAAAAABGY/HdQbtL36W10wu3Ie944gEVggzRaKHnWEgCLcBGAsYHQ/w800/Channel-S-UK-LIve.png?w=640&ssl=1"Channel S(jagobd)
@@ -108,14 +108,14 @@ https://web.nandansyst.com/hls/nandan.m3u8
 #EXTINF:1 group-titel="hasan iptv" tvg-logo="https://play-lh.googleusercontent.com/X2QTI6Bsp2pt9LlTqwgHOyCX1j11_OF9WpQriW_11qKcPaikKFHMtHwtUKMBN0ILJZw=w600-h300-pc0xffffff-pd",TBN 24
 http://cdn01.palki.tv/live/TBN24-M/index.m3u8
 
-#EXTINF:1 group-titel="hasan iptv" tvg-logo="",Gan Bangla
+#EXTINF:1 group-titel="hasan iptv" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/0/0a/%E0%A6%97%E0%A6%BE%E0%A6%A8_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE.png",Gan Bangla
 http://cdn01.palki.tv/live/GaanBangla-M/index.m3u8
 
 #EXTINF:1 group-titel="hasan iptv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Maasranga_Television_Logo.jpg/180px-Maasranga_Television_Logo.jpg",Maasranga Tv
 http://cdn01.palki.tv:80/live/MaasrangaTV-M/index.m3u8
 
 
-#EXTINF:-1 group-title="hasan iptv" tvg-logo="https://i0.wp.com/eptv.goomflix.xyz/logos-gf/zeebangla.png?w=640"zee Bangla
+#EXTINF:-1 group-title="hasan iptv" tvg-logo="https://i0.wp.com/eptv.goomflix.xyz/logos-gf/zeebangla.png?w=640",zee Bangla
 http://xtv.ooo:8080/Sehrish/12345/245898
 
 
