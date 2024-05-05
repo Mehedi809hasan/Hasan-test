@@ -3,87 +3,119 @@
 EXTINF:1 group-titel="hasan iptv" tvg-logo="https://drive.google.com/file/d/18oni_fSWmVVhcmjtnc6GQLMd_RRi0NoP/view?usp=drivesdk",ipl geo
 https://bunyhlsipla.bunycdn.com/live/720pa.m3u8
 
-#EXTINF:1 group-titel="bangldesh tv" tvg-logo="https://drive.google.com/file/d/17l4k6MOch2aMW1C4MA0Jg2VBGwGA22GA/view?usp=drivesdk",Amar Bangla
+#EXTINF:1 group-titel="bangldesh tv" tvg-logo="",Amar Bangla
 https://live-stream.utkalbongo.com/utkalbongo/stream10/hls/amarbangla.m3u8
 
 #EXTINF:1 group-titel="bangldesh tv" tvg-logo="https://vipotv.com/wp-content/uploads/2021/04/ekattor-tv-live-vipotv.png",71 Tv
 https://ythls.armelin.one/channel/UCtqvtAVmad5zywaziN6CbfA.m3u8
 
-#EXTINF:1 group-titel="hasan iptv" tvg-logo="https://drive.google.com/file/d/18oni_fSWmVVhcmjtnc6GQLMd_RRi0NoP/view?usp=drivesdk",Somay Tv
+#EXTINF:1 group-titel="hasan iptv" tvg-logo="",Somay Tv palky
 http://cdn01.palki.tv:80/live/SomoyTV-M/tracks-v1a1/mono.m3u8
 
 #EXTINF:1 group-titel="hasan iptv" tvg-logo="https://yt3.googleusercontent.com/6HDLsKKFbUIuEMbMP-f5RJ3m6kitqb-5MC9bxf4RfmoamWg0uEktC6nFjDt73m1CSkuK3NXm=s900-c-k-c0x00ffffff-no-rj",Channel 24
 http://cdn01.palki.tv:80/live/Channel24-M/tracks-v1a1/mono.m3u8
 
-#EXTINF:1 group-titel="hasan iptv" tvg-logo="https://drive.google.com/file/d/18oni_fSWmVVhcmjtnc6GQLMd_RRi0NoP/view?usp=drivesdk",Bijoy Tv
+#EXTINF:1 group-titel="hasan iptv" tvg-logo="",Bijoy Tv
 http://cdn01.palki.tv/live/BijoyTV-M/index.m3u8
+
 #EXTINF:1 group-titel="hasan iptv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/Ekhon_Logo.png",Ekhon Tv
 https://raw.githubusercontent.com/gift4bd/ytm/main/EkhonTV.m3u8
-#EXTINF:1 group-titel="hasan iptv" tvg-logo="https://drive.google.com/file/d/18oni_fSWmVVhcmjtnc6GQLMd_RRi0NoP/view?usp=drivesdk",Asian Tv
+
+#EXTINF:1 group-titel="hasan iptv" tvg-logo="",Asian Tv
 https://mtlivestream.site/asian/ytlive/index.m3u8
-#EXTINF:1 group-titel="hasan iptv" tvg-logo="https://drive.google.com/file/d/18oni_fSWmVVhcmjtnc6GQLMd_RRi0NoP/view?usp=drivesdk",Dipto Tv
+
+#EXTINF:1 group-titel="hasan iptv" tvg-logo="",Dipto Tv
 http://cdn01.palki.tv/live/DeeptoTV-M/tracks-v1a1/mono.m3u8
+
 #EXTINF:1 group-titel="hasan iptv" tvg-logo="https://tv.bdix.app/chlogo/somoy.web",Somay tv
 https://ythls.armelin.one/channel/UCxHoBXkY88Tb8z1Ssj6CWsQ.m3u8
-#EXTINF:1 group-titel="hasan iptv" tvg-logo="https://drive.google.com/file/d/18oni_fSWmVVhcmjtnc6GQLMd_RRi0NoP/view?usp=drivesdk",Nexus Television
+
+#EXTINF:1 group-titel="hasan iptv" tvg-logo="",Nexus Television
 https://livess.ncare.live/live-orgin/nexustv.stream/chunks.m3u8
+
 #EXTINF:1 group-titel="hasan iptv" tvg-logo="https://tv.bdix.app/chlogo/ntv.webp",N Tv
 https://livess.ncare.live/live-orgin/ntvuk00332211.stream/chunks.m3u8
-#EXTINF:1 group-titel="hasan iptv" tvg-logo="https://drive.google.com/file/d/18oni_fSWmVVhcmjtnc6GQLMd_RRi0NoP/view?usp=drivesdk",R tv
+
+#EXTINF:1 group-titel="hasan iptv" tvg-logo="",R tv
 https://livess.ncare.live/live-orgin/rtv-sg.stream/chunks.m3u8
-#EXTINF:1 group-titel="hasan iptv" tvg-logo="https://drive.google.com/file/d/18oni_fSWmVVhcmjtnc6GQLMd_RRi0NoP/view?usp=drivesdk",Bangla Vison
+
+#EXTINF:1 group-titel="hasan iptv" tvg-logo="",Bangla Vison
 https://livess.ncare.live/live-orgin/banglav000.stream/chunks.m3u8
-#EXTINF:1 group-titel="hasan iptv" tvg-logo="https://drive.google.com/file/d/18oni_fSWmVVhcmjtnc6GQLMd_RRi0NoP/view?usp=drivesdk",My TV
+
+#EXTINF:1 group-titel="hasan iptv" tvg-logo="",My TV
 https://myflixbd.com/0.m3u8
-#EXTINF:1 group-titel="hasan iptv" tvg-logo="https://drive.google.com/file/d/18oni_fSWmVVhcmjtnc6GQLMd_RRi0NoP/view?usp=drivesdk",Green Tv
+
+#EXTINF:1 group-titel="hasan iptv" tvg-logo="",Green Tv
 https://livess.ncare.live/live-orgin/greentv.stream/chunks.m3u8
+
 #EXTINF:1 group-titel="hasan iptv" tvg-logo="https://vipotv.com/wp-content/uploads/2021/01/EkusheyTv-live-vipotv.png",Ekushey Tv
 https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+
 #EXTINF:1 group-titel="hasan iptv" tvg-logo="https://tv.bdix.app/chlogo/atnbangla.webp",Atn Bangla
 https://livess.ncare.live/live-orgin/atnbd-8-org.stream/chunks.m3u8
-#EXTINF:1 group-titel="hasan iptv" tvg-logo="https://drive.google.com/file/d/18oni_fSWmVVhcmjtnc6GQLMd_RRi0NoP/view?usp=drivesdk",Mohona tv
+
+#EXTINF:1 group-titel="hasan iptv" tvg-logo="",Mohona tv
 https://livess.ncare.live/live-orgin/mohonatv00000223232244556633.stream/chunks.m3u8
-#EXTINF:1 group-titel="hasan iptv" tvg-logo="https://drive.google.com/file/d/18oni_fSWmVVhcmjtnc6GQLMd_RRi0NoP/view?usp=drivesdk",Independent tv
+
+#EXTINF:1 group-titel="hasan iptv" tvg-logo="",Independent tv
 https://ythls.armelin.one/channel/UCATUkaOHwO9EP_W87zCiPbA.m3u8
-#EXTINF:1 group-titel="hasan iptv" tvg-logo="https://lh3.google.com/u/0/d/19P1jVzU71cWoR_bV3_tlAQNVl9yEplV7=w350-h262-p-k-nu-iv1",Sa Tv
+
+#EXTINF:1 group-titel="hasan iptv" tvg-logo="",Sa Tv
 https://livess.ncare.live/live-orgin/satvoff5666.stream/chunks.m3u8
-#EXTINF:1 group-titel="hasan iptv" tvg-logo="https://drive.google.com/file/d/18oni_fSWmVVhcmjtnc6GQLMd_RRi0NoP/view?usp=drivesdk",Jamuna Tv
+
+#EXTINF:1 group-titel="hasan iptv" tvg-logo="",Jamuna Tv
 https://livess.ncare.live/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8
-#EXTINF:1 group-titel="hasan iptv" tvg-logo="https://drive.google.com/file/d/18oni_fSWmVVhcmjtnc6GQLMd_RRi0NoP/view?usp=drivesdk",Boishakhi tv
+
+#EXTINF:1 group-titel="hasan iptv" tvg-logo="",Boishakhi tv
 http://cdn01.palki.tv/live/BoishakhiTV-M/tracks-v1a1/mono.m3u8
+
 #EXTINF:1 group-titel="hasan iptv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/1200px-Channel-i.svg.png",channel I
 http://cdn01.palki.tv/live/Channeli-M/tracks-v1a1/mono.m3u8
-#EXTINF:1 group-titel="hasan iptv" tvg-logo="https://drive.google.com/file/d/18oni_fSWmVVhcmjtnc6GQLMd_RRi0NoP/view?usp=drivesdk",channel 9
+
+#EXTINF:1 group-titel="hasan iptv" tvg-logo="",channel 9
 http://cdn01.palki.tv/live/Channel9-M/index.m3u8
-#EXTINF:1 group-titel="hasan iptv" tvg-logo="https://drive.google.com/file/d/1eEX46dDVXE9XLwG8P07H-XjRIvPaKbdI/view?usp=drivesdk",SA Tv
+
+#EXTINF:1 group-titel="hasan iptv" tvg-logo="",SA Tv
 http://cdn01.palki.tv/live/SATV-M/tracks-v1a1/mono.m3u8
-#EXTINF:1 group-titel="hasan iptv" tvg-logo="https://drive.google.com/file/d/18oni_fSWmVVhcmjtnc6GQLMd_RRi0NoP/view?usp=drivesdk",Desh Tv
+
+#EXTINF:1 group-titel="hasan iptv" tvg-logo="",Desh Tv
 http://195.26.87.217/live.ts?channelId=93&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:1 group-titel="hasan iptv" tvg-logo="https://drive.google.com/file/d/18oni_fSWmVVhcmjtnc6GQLMd_RRi0NoP/view?usp=drivesdk",Bangla tv
+
+#EXTINF:1 group-titel="hasan iptv" tvg-logo="",Bangla tv
 http://cdn01.palki.tv/live/BanglaTV-M/index.m3u8
-#EXTINF:1 group-titel="hasan iptv" tvg-logo="https://drive.google.com/file/d/18oni_fSWmVVhcmjtnc6GQLMd_RRi0NoP/view?usp=drivesdk",Durantoo Tv
+
+#EXTINF:1 group-titel="hasan iptv" tvg-logo="",Durantoo Tv
 http://cdn01.palki.tv/live/Duronto-M/index.m3u8
-#EXTINF:1 group-titel="hasan iptv" tvg-logo="https://drive.google.com/file/d/18oni_fSWmVVhcmjtnc6GQLMd_RRi0NoP/view?usp=drivesdk",Jagonews24 Tv
+
+#EXTINF:1 group-titel="hasan iptv" tvg-logo="",Jagonews24 Tv
 https://livess.ncare.live/live-orgin/jagonews24.stream/chunks.m3u8
-#EXTINF:1 group-titel="hasan iptv" tvg-logo="https://drive.google.com/file/d/18oni_fSWmVVhcmjtnc6GQLMd_RRi0NoP/view?usp=drivesdk",Movie Bangla
+
+#EXTINF:1 group-titel="hasan iptv" tvg-logo="",Movie Bangla
 https://livess.ncare.live/live-orgin/moviebanglalink2.stream/chunks.m3u8
-#EXTINF:1 group-titel="hasan iptv" tvg-logo="https://drive.google.com/file/d/18oni_fSWmVVhcmjtnc6GQLMd_RRi0NoP/view?usp=drivesdk",Global Tv
+
+#EXTINF:1 group-titel="hasan iptv" tvg-logo="",Global Tv
 http://cdn01.palki.tv/live/GlobalTV-M/index.m3u8
-#EXTINF:1 group-titel="hasan iptv" tvg-logo="https://drive.google.com/file/d/18oni_fSWmVVhcmjtnc6GQLMd_RRi0NoP/view?usp=drivesdk",Rtv Music
+
+#EXTINF:1 group-titel="hasan iptv" tvg-logo="",Rtv Music
 https://ythls-v2.onrender.com/channel/UCi-aUVwZR5U8GBNOy0CC4ww.m3u8
-#EXTINF:1 group-titel="hasan iptv" tvg-logo="https://drive.google.com/file/d/18oni_fSWmVVhcmjtnc6GQLMd_RRi0NoP/view?usp=drivesdk"Channel S(jagobd)
+
+#EXTINF:1 group-titel="hasan iptv" tvg-logo=""Channel S(jagobd)
 https://livess.jagobd.com.bd/live-orgin/chsukoff.stream/chunks.m3u8
-#EXTINF:1 group-titel="hasan iptv" tvg-logo="https://drive.google.com/file/d/18oni_fSWmVVhcmjtnc6GQLMd_RRi0NoP/view?usp=drivesdk",Nandan Tv
+
+#EXTINF:1 group-titel="hasan iptv" tvg-logo="",Nandan Tv
 https://web.nandansyst.com/hls/nandan.m3u8
-#EXTINF:1 group-titel="hasan iptv" tvg-logo="https://drive.google.com/file/d/18oni_fSWmVVhcmjtnc6GQLMd_RRi0NoP/view?usp=drivesdk",TBN 24
+
+#EXTINF:1 group-titel="hasan iptv" tvg-logo="",TBN 24
 http://cdn01.palki.tv/live/TBN24-M/index.m3u8
-#EXTINF:1 group-titel="hasan iptv" tvg-logo="https://drive.google.com/file/d/18oni_fSWmVVhcmjtnc6GQLMd_RRi0NoP/view?usp=drivesdk",Gan Bangla
+
+#EXTINF:1 group-titel="hasan iptv" tvg-logo="",Gan Bangla
 http://cdn01.palki.tv/live/GaanBangla-M/index.m3u8
-#EXTINF:1 group-titel="hasan iptv" tvg-logo="https://drive.google.com/file/d/18oni_fSWmVVhcmjtnc6GQLMd_RRi0NoP/view?usp=drivesdk",Maasranga Tv
+
+#EXTINF:1 group-titel="hasan iptv" tvg-logo="",Maasranga Tv
 http://cdn01.palki.tv:80/live/MaasrangaTV-M/index.m3u8
 
 
-#EXTINF:-1 group-title="hasan iptv" tvg-logo="https://drive.google.com/file/d/17l4k6MOch2aMW1C4MA0Jg2VBGwGA22GA/view?usp=drivesdk"zee Bangla
+#EXTINF:-1 group-title="hasan iptv" tvg-logo=""zee Bangla
 http://xtv.ooo:8080/Sehrish/12345/245898
 
 
