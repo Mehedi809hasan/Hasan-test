@@ -139,7 +139,7 @@ http://opplex.tv:8080/live/223322/223322/245898.m3u8
 #EXTINF:-1 group-title="kids" tvg-logo="https://i0.wp.com/eptv.goomflix.xyz/logos-gf/cn.png?w=640",Cartoon Network
 http://xtv.ooo:8080/live/7080000/0341708/153154.ts
 
-#EXTINF:-1 group-title="kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFMFmHauxv2WoVXHAPXKYFae-DZ-eDQ1qBVQ&s=18",Pogo
+#EXTINF:-1 group-title="kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnRWOIpzfbliz8ngW5NpSMM1Hv_3V8OJLad9O86iOAVg&s",Pogo
 http://xtv.ooo:8080/live/7080000/0341708/150483.ts
 
 
