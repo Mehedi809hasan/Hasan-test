@@ -61,7 +61,7 @@ http://cdn01.palki.tv/live/BoishakhiTV-M/tracks-v1a1/mono.m3u8
 http://cdn01.palki.tv/live/Channeli-M/tracks-v1a1/mono.m3u8
 #EXTINF:1 group-titel="hasan iptv" tvg-logo="https://drive.google.com/file/d/18oni_fSWmVVhcmjtnc6GQLMd_RRi0NoP/view?usp=drivesdk",channel 9
 http://cdn01.palki.tv/live/Channel9-M/index.m3u8
-#EXTINF:1 group-titel="hasan iptv" tvg-logo="https://drive.google.com/file/d/18oni_fSWmVVhcmjtnc6GQLMd_RRi0NoP/view?usp=drivesdk",SA Tv
+#EXTINF:1 group-titel="hasan iptv" tvg-logo="https://drive.google.com/file/d/1eEX46dDVXE9XLwG8P07H-XjRIvPaKbdI/view?usp=drivesdk",SA Tv
 http://cdn01.palki.tv/live/SATV-M/tracks-v1a1/mono.m3u8
 #EXTINF:1 group-titel="hasan iptv" tvg-logo="https://drive.google.com/file/d/18oni_fSWmVVhcmjtnc6GQLMd_RRi0NoP/view?usp=drivesdk",Desh Tv
 http://195.26.87.217/live.ts?channelId=93&uid=7435&deviceMac=00:1A:79:51:4B:3A
