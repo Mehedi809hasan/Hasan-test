@@ -29,11 +29,11 @@ https://raw.githubusercontent.com/gift4bd/ytm/main/EkhonTV.m3u8
 https://mtlivestream.site/asian/ytlive/index.m3u8
 #EXTINF:1 group-titel="hasan iptv" tvg-logo="https://drive.google.com/file/d/18oni_fSWmVVhcmjtnc6GQLMd_RRi0NoP/view?usp=drivesdk",Dipto Tv
 http://cdn01.palki.tv/live/DeeptoTV-M/tracks-v1a1/mono.m3u8
-#EXTINF:1 group-titel="hasan iptv" tvg-logo="https://drive.google.com/file/d/18oni_fSWmVVhcmjtnc6GQLMd_RRi0NoP/view?usp=drivesdk",
-
+#EXTINF:1 group-titel="hasan iptv" tvg-logo="https://tv.bdix.app/chlogo/somoy.web",Somay tv
+https://ythls.armelin.one/channel/UCxHoBXkY88Tb8z1Ssj6CWsQ.m3u8
 #EXTINF:1 group-titel="hasan iptv" tvg-logo="https://drive.google.com/file/d/18oni_fSWmVVhcmjtnc6GQLMd_RRi0NoP/view?usp=drivesdk",Nexus Television
 https://livess.ncare.live/live-orgin/nexustv.stream/chunks.m3u8
-#EXTINF:1 group-titel="hasan iptv" tvg-logo="https://drive.google.com/file/d/18oni_fSWmVVhcmjtnc6GQLMd_RRi0NoP/view?usp=drivesdk",N Tv
+#EXTINF:1 group-titel="hasan iptv" tvg-logo="https://tv.bdix.app/chlogo/ntv.webp",N Tv
 https://livess.ncare.live/live-orgin/ntvuk00332211.stream/chunks.m3u8
 #EXTINF:1 group-titel="hasan iptv" tvg-logo="https://drive.google.com/file/d/18oni_fSWmVVhcmjtnc6GQLMd_RRi0NoP/view?usp=drivesdk",R tv
 https://livess.ncare.live/live-orgin/rtv-sg.stream/chunks.m3u8
@@ -45,7 +45,7 @@ https://myflixbd.com/0.m3u8
 https://livess.ncare.live/live-orgin/greentv.stream/chunks.m3u8
 #EXTINF:1 group-titel="hasan iptv" tvg-logo="https://vipotv.com/wp-content/uploads/2021/01/EkusheyTv-live-vipotv.png",Ekushey Tv
 https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
-#EXTINF:1 group-titel="hasan iptv" tvg-logo="https://drive.google.com/file/d/18oni_fSWmVVhcmjtnc6GQLMd_RRi0NoP/view?usp=drivesdk",Atn Bangla
+#EXTINF:1 group-titel="hasan iptv" tvg-logo="https://tv.bdix.app/chlogo/atnbangla.webp",Atn Bangla
 https://livess.ncare.live/live-orgin/atnbd-8-org.stream/chunks.m3u8
 #EXTINF:1 group-titel="hasan iptv" tvg-logo="https://drive.google.com/file/d/18oni_fSWmVVhcmjtnc6GQLMd_RRi0NoP/view?usp=drivesdk",Mohona tv
 https://livess.ncare.live/live-orgin/mohonatv00000223232244556633.stream/chunks.m3u8
