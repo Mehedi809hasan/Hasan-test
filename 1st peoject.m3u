@@ -18,7 +18,7 @@ https://ythls.armelin.one/channel/UCtqvtAVmad5zywaziN6CbfA.m3u8
 #EXTINF:1 group-titel="hasan iptv" tvg-logo="https://drive.google.com/file/d/18oni_fSWmVVhcmjtnc6GQLMd_RRi0NoP/view?usp=drivesdk",Somay Tv
 http://cdn01.palki.tv:80/live/SomoyTV-M/tracks-v1a1/mono.m3u8
 
-#EXTINF:1 group-titel="hasan iptv" tvg-logo="https://drive.google.com/file/d/18oni_fSWmVVhcmjtnc6GQLMd_RRi0NoP/view?usp=drivesdk",Channel 24
+#EXTINF:1 group-titel="hasan iptv" tvg-logo="https://yt3.googleusercontent.com/6HDLsKKFbUIuEMbMP-f5RJ3m6kitqb-5MC9bxf4RfmoamWg0uEktC6nFjDt73m1CSkuK3NXm=s900-c-k-c0x00ffffff-no-rj",Channel 24
 http://cdn01.palki.tv:80/live/Channel24-M/tracks-v1a1/mono.m3u8
 
 #EXTINF:1 group-titel="hasan iptv" tvg-logo="https://drive.google.com/file/d/18oni_fSWmVVhcmjtnc6GQLMd_RRi0NoP/view?usp=drivesdk",Bijoy Tv
@@ -43,7 +43,7 @@ https://livess.ncare.live/live-orgin/banglav000.stream/chunks.m3u8
 https://myflixbd.com/0.m3u8
 #EXTINF:1 group-titel="hasan iptv" tvg-logo="https://drive.google.com/file/d/18oni_fSWmVVhcmjtnc6GQLMd_RRi0NoP/view?usp=drivesdk",Green Tv
 https://livess.ncare.live/live-orgin/greentv.stream/chunks.m3u8
-#EXTINF:1 group-titel="hasan iptv" tvg-logo="https://drive.google.com/file/d/18oni_fSWmVVhcmjtnc6GQLMd_RRi0NoP/view?usp=drivesdk",Ekushey Tv
+#EXTINF:1 group-titel="hasan iptv" tvg-logo="https://vipotv.com/wp-content/uploads/2021/01/EkusheyTv-live-vipotv.png",Ekushey Tv
 https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:1 group-titel="hasan iptv" tvg-logo="https://drive.google.com/file/d/18oni_fSWmVVhcmjtnc6GQLMd_RRi0NoP/view?usp=drivesdk",Atn Bangla
 https://livess.ncare.live/live-orgin/atnbd-8-org.stream/chunks.m3u8
