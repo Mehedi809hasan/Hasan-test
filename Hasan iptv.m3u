@@ -62,6 +62,9 @@ https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:1 group-titel="bangldeshi_tv" tvg-logo="https://tv.bdix.app/chlogo/atnbangla.webp",Atn Bangla
 https://livess.ncare.live/live-orgin/atnbd-8-org.stream/chunks.m3u8
 
+EXTINF:-1 group-title="Bangladeshi tv" tvg-logo="https://i0.wp.com/seeklogo.com/images/A/atn-news-logo-6A3E3EC072-seeklogo.com.png?w=640&ssl=1",Atn news
+http://cdn01.palki.tv/live/ATNNews-M/tracks-v1a1/mono.m3u8
+
 #EXTINF:1 group-titel="bangldeshi_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/94/Mohona_tv_Logo.svg/640px-Mohona_tv_Logo.svg.png",Mohona tv
 https://livess.ncare.live/live-orgin/mohonatv00000223232244556633.stream/chunks.m3u8
 
