@@ -461,6 +461,16 @@ http://xtv.ooo:8080/RiyazMPT/433833/314754
 #EXTINF:-1 group-title="kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfwellwsRZnSNSS9ON6RX3Ip9SQOJJBBH3Nzf2H9uJMQ&s",Chacha Batija
 http://xtv.ooo:8080/RiyazMPT/433833/311774
 
+#EXTINF:-1 group-title="kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVLbab2c9g_3pde4AaDOgvWim7VqHVdegSJSb9bBXgLqIIo-3vCYO4kOs&s",Doraemon
+http://humiptv.live:8080/live/wasim/wasim1234/147746.ts
+
+#EXTINF:-1 group-title="kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXqJc9j2Aq8ETCADPtX-yQjOCRnrl-Q_Q-abHl6Is1YQ&s",Pogo
+https://i.mjh.nz/SamsungTVPlus/INBD1300021X3.m3u8#EXTINF:-1 group-title="kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVLbab2c9g_3pde4AaDOgvWim7VqHVdegSJSb9bBXgLqIIo-3vCYO4kOs&s",Doraemon
+http://humiptv.live:8080/live/wasim/wasim1234/147746.ts
+
+#EXTINF:-1 group-title="kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXqJc9j2Aq8ETCADPtX-yQjOCRnrl-Q_Q-abHl6Is1YQ&s",Pogo
+https://i.mjh.nz/SamsungTVPlus/INBD1300021X3.m3u8
+
 
 
 
