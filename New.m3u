@@ -1,6 +1,8 @@
 #EXTM3U
 
 
+
+
 #EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/1200px-Aljazeera_eng.svg.png",Al jazeera
 https://live-hls-web-aje.getaj.net/AJE/02.m3u8
 
@@ -27,7 +29,7 @@ http://mag.trexlive.me/Michael88/Michael88/282065
 #EXTINF:-1 group-title="kolkata Bangla" tvg-logo="https://yt3.googleusercontent.com/1Ek1alc_zzPZpGMsVADvCKz86QYsCFq2UXkyf6KrqO4VMf6GbaEK7umJDR_g0g6VTYsrmcHjl4s=s176-c-k-c0x00ffffff-no-rj",Sangeet Bangla
 http://longstream-03.ajaah.com/PlayBoxTV/SangeetBangla/playlist.m3u8
 
-#EXTINF:-1 group-title="kolkata bangla" tvg-logo="https://i0.wp.com/eptv.goomflix.xyz/logos-gf/zeebangla.png?w=640",zee Bangla
+#EXTINF:-1 group-title="kolkata Bangla" tvg-logo="https://i0.wp.com/eptv.goomflix.xyz/logos-gf/zeebangla.png?w=640",zee Bangla
 http://xtv.ooo:8080/Sehrish/12345/245898
 
 #EXTINF:-1 group-title="kolkata bangla" tvg-logo="https://i0.wp.com/eptv.goomflix.xyz/logos-gf/starjalsha.png?w=640",star jalsha
@@ -118,10 +120,10 @@ https://live.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 #EXTINF:-1 group-titel="bangldeshi tv" tvg-logo="https://www.jagobd.com/wp-content/uploads/2016/02/atnislamictv.jpg?x50681",Atn bangla Islamic Jagobd
 https://live.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnislamictv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS83LzIwMjQgNDoxMjo1NyBQTSZoYXNoX3ZhbHVlPUkxR1B1S0N4ZkdnYkJFYTdwVjVFaFE9PSZ2YWxpZG1pbnV0ZXM9NDA=
 
-#EXTINF:-1 group-title="Bangladeshi tv" tvg-logo="https://i0.wp.com/seeklogo.com/images/A/atn-news-logo-6A3E3EC072-seeklogo.com.png?w=640&ssl=1",Atn news
+#EXTINF:-1 group-title="bangladeshi tv" tvg-logo="https://i0.wp.com/seeklogo.com/images/A/atn-news-logo-6A3E3EC072-seeklogo.com.png?w=640&ssl=1",Atn news
 http://cdn01.palki.tv/live/ATNNews-M/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Bangladeshi tv" tvg-logo="https://www.jagobd.com/wp-content/uploads/2015/12/atnmusic.jpg?x50681",Atn Music
+#EXTINF:-1 group-title="bangladeshi tv" tvg-logo="https://www.jagobd.com/wp-content/uploads/2015/12/atnmusic.jpg?x50681",Atn Music
 https://live.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnmusic.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS83LzIwMjQgNDoxNjo1NyBQTSZoYXNoX3ZhbHVlPXZKcVBOZUprcGF6ZmJNTkZmWmgyVlE9PSZ2YWxpZG1pbnV0ZXM9NDA=
 
 #EXTINF:-1 group-titel="bangldeshi tv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/94/Mohona_tv_Logo.svg/640px-Mohona_tv_Logo.svg.png",Mohona tv
