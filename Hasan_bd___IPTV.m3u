@@ -15,7 +15,7 @@ https://live-hls-web-aje.getaj.net/AJE/02.m3u8
 https://ytapi-2.piratestv.workers.dev/@Reuters.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZkeZrPYyifLZ6RTxgKsFj8izeNR5lp9CXB-jvi9UhrQ&s",Wion
-https://ytapi-2.piratestv.workers.dev/@WION.m3u8
+http://watchindia.net:8880/live/69354/82115/816.ts
 
 
 
