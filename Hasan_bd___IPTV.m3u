@@ -265,7 +265,7 @@ https://live.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 http://cdn01.palki.tv/live/DeeptoTV-M/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://tv.bdix.app/chlogo/somoy.web",Somay tv
-https://ythls.armelin.one/channel/UCxHoBXkY88Tb8z1Ssj6CWsQ.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1715483716/ei/5N8_ZqKBG5m3kucPs9iDqAU/ip/20.55.86.176/id/GySsvQCMVBE.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51066116/txs/51066116%2C51066117%2C51066118%2C51066119%2C51066120%2C51066121/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgSqLx6mqlS3T5Ydu3L3CurAanjCdrCe6eHjFWUDm2v2oCIDdh67W27gkCGz_FMsz2kl3pTVjz4RLBgu0Z1in62e1l/file/index.m3u8
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://i0.wp.com/www.nexusbd.tv/wp-content/uploads/2022/06/logo-nexus tevision
 https://livess.ncare.live/live-orgin/nexustv.stream/chunks.m3u8
