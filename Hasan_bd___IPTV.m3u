@@ -177,6 +177,9 @@ https://ythls.armelin.one/channel/UCATUkaOHwO9EP_W87zCiPbA.m3u8
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://i0.wp.com/www.satv.tv/wp-content/uploads/2022/01/cropped-icon-logo-2.png?w=640&ssl=1",Sa Tv
 https://livess.ncare.live/live-orgin/satvoff5666.stream/chunks.m3u8
 
+#EXTINF:-1 group-title="bangladeshi" tvg-logo="https://i0.wp.com/www.satv.tv/wp-content/uploads/2022/01/cropped-icon-logo-2.png?w=640&ssl=1",SA Tv
+http://cdn01.palki.tv/live/SATV-M/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQchZAPCjHqBtrE_nsGQ5XGB-Bm9kelCvrcJYbKz1oYiQ&s",Jamuna Tv
 https://livess.ncare.live/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8
 
@@ -189,8 +192,7 @@ http://cdn01.palki.tv/live/Channeli-M/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpgep8KnTlr0wQqJBkcYEL4NuR9XaKZzvca_rvcR4IesDx3MvpUHxWoks&s",channel 9
 http://cdn01.palki.tv/live/Channel9-M/index.m3u8
 
-#EXTINF:-1 group-title="bangladeshi" tvg-logo="https://i0.wp.com/www.satv.tv/wp-content/uploads/2022/01/cropped-icon-logo-2.png?w=640&ssl=1",SA Tv
-http://cdn01.palki.tv/live/SATV-M/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 group-title="bangladeshi" tvg logo=",Desh Tv
 http://195.26.87.217/live.ts?channelId=93&uid=7435&deviceMac=00:1A:79:51:4B:3A
