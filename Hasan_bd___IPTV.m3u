@@ -89,6 +89,9 @@ http://xtv.ooo:8080/RiyazMPT/433833/245906
 #EXTINF:-1 group-title="kolkata Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzSzHRpxXk0avaaVCcwUXkTdNSvFqs48sc6PwfKZxI6NINaHv97qBEBmU&s",Colours Bangla
 http://opplex.tv:8080/live/223322/223322/245895.m3u8
 
+#EXTINF:-1 group-title="kolkata Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzSzHRpxXk0avaaVCcwUXkTdNSvFqs48sc6PwfKZxI6NINaHv97qBEBmU&s",Colours Bangla
+http://homeip.biz/IN_ColorsBengali/index.m3u8?token=074923a45a7811be8aa1362365ef50a3
+
 #EXTINF:-1 group-title="kolkata Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJzql2ho7Uf6NZB1pMeW_4wMIaNiqDvzC8BA&s",Jalsha Movies
 http://195.26.87.217/live.ts?channelId=117&uid=7435&deviceMac=00:1A:79:51:4B:3A
 
