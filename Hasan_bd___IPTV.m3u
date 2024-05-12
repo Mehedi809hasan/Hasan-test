@@ -328,8 +328,7 @@ https://livess.ncare.live/live-orgin/greentv.stream/chunks.m3u8
 
 
 
-
- EXTINF:-1 group-title="sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSs1-hNRktdaNndiqJ0jnocLBAxIyHJp_VLFZDboeKQZQ&s", BAN VS Zimbabua
+#EXTINF:-1 group-title="sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSs1-hNRktdaNndiqJ0jnocLBAxIyHJp_VLFZDboeKQZQ&s",BAN VS Zimbabua
 https://tv5.hoichoi24.com/1101/tracks-v1a1/mono.m3u8
 
 
