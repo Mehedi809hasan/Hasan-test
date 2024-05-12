@@ -21,6 +21,9 @@ https://ytapi-2.piratestv.workers.dev/@Reuters.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZkeZrPYyifLZ6RTxgKsFj8izeNR5lp9CXB-jvi9UhrQ&s",Wion
 http://watchindia.net:8880/live/69354/82115/816.ts
 
+
+
+
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStLi37YpIx0Y2dN9EcathoGiY437_QiwhYzqSmHhY9uA&s",24/7 Kapil sharma Show
 http://xtv.ooo:8080/adnankb2006/86057314/342075
 
@@ -38,6 +41,9 @@ https://mrsmarts.shop/xtv.php?id=340875
 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxjWUbvsUbQ5508_YVKo-jUyxw4cqD4QNNMdWpZwWmsQ&s",24/7Crime Petrol
 https://mrsmarts.shop/xtv.php?id=340874
+
+
+
 
 #EXTINF:-1 group-title="kolkata Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqrnI7zGUuaJBC6a_tXiZE9kXGuvcAm-HwSKICBZvIbw&s",Akash 8
 http://195.26.87.217/live.ts?channelId=79&uid=7435&deviceMac=00:1A:79:51:4B:3A
@@ -95,6 +101,10 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/index.m3u8
 #EXTINF:-1 group-title="kolkata Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPYHe3s0wlLn4C3ZOtA89LNuYzdoaw9hzrxBOzX7JsUSoxHUOrLy74KQI&s",Sangeet Bangla
 http://longstream-03.ajaah.com/PlayBoxTV/SangeetBangla/playlist.m3u8
 
+
+
+
+
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://vipotv.com/wp-content/uploads/2021/04/ekattor-tv-live-vipotv.png",71 Tv
 http://cdn01.palki.tv/live/EkattorTV-M/index.m3u8
 
@@ -104,8 +114,12 @@ http://cdn01.palki.tv/live/EkattorTV-M/index.m3u8
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://tv.bdix.app/chlogo/somoy.web",Somay tv
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1715483716/ei/5N8_ZqKBG5m3kucPs9iDqAU/ip/20.55.86.176/id/GySsvQCMVBE.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51066116/txs/51066116%2C51066117%2C51066118%2C51066119%2C51066120%2C51066121/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgSqLx6mqlS3T5Ydu3L3CurAanjCdrCe6eHjFWUDm2v2oCIDdh67W27gkCGz_FMsz2kl3pTVjz4RLBgu0Z1in62e1l/file/index.m3u8
 
-#EXTINF:-1 group-title="bangladeshi" tvg-logo="https://tv.bdix.app/chlogo/somoy.web",Somay tv
+#EXTINF:-1 group-title="bangladeshi" tvg-logo="https://tv.bdix.app/chlogo/somoy.web",Somay tv (YT)
 https://ythls.armelin.one/channel/UCxHoBXkY88Tb8z1Ssj6CWsQ.m3u8
+
+#EXTINF:-1 group-title="bangladeshi" tvg-logo="https://i0.wp.com/www.somoynews.tv/icon.png?w=640&ssl=1",Somay Tv palky
+http://cdn01.palki.tv:80/live/SomoyTV-M/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo=""https://i0.wp.com/www.somoynews.tv/icon.png?w=640&ssl=1",Somay Tv palky
 http://cdn01.palki.tv:80/live/SomoyTV-M/tracks-v1a1/mono.m3u8
@@ -212,8 +226,7 @@ http://cdn01.palki.tv:80/live/MaasrangaTV-M/index.m3u8
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKaQ1N38DkYV96s5Q4-yKFjGkSSmt8TZDS_hS2GOCQ=s900-c-k-c0x00ffffff-no-rj",Biswa bangla 24
 https://livess.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/biswabanglatv.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="bangladeshi" tvg-logo="https://i0.wp.com/www.somoynews.tv/icon.png?w=640&ssl=1",Somay Tv palky
-http://cdn01.palki.tv:80/live/SomoyTV-M/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://www.jagobd.com/wp-content/uploads/2022/03/Logo-Still.png",Bishwa Bangla Jagobd
 https://live.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/biswabanglatv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS83LzIwMjQgNDo1MjoxMyBQTSZoYXNoX3ZhbHVlPWFSSkp6VXRaZkF6eWllbFFGaytqTEE9PSZ2YWxpZG1pbnV0ZXM9NDA=
