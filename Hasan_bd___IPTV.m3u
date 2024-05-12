@@ -469,11 +469,28 @@ http://humsab.xyz/Wi_Cr/index.m3u8?token=30d8632c236a57d48ba1ecd6f317ea7d
 #EXTINF:-1 group-title="Discovery" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxmkS3pU6nLT-Me6aUkVW7L6o6-W5_RFXf4NzXyFbfZkZ77ZBbm2zHv6Y&s",Animal planet
 https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Animal-Planet.m3u8
 
+#EXTINF:-1 group-title="Discovery" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaDfFXomJfSuQ1zcO-UGWhJ4Rwranig0LIaSauXd91p0Sw2QMYVV0Pvl4&s",Animal planet
+https://varun-iptv.netlify.app/m3u/Animal_Planet.m3u8
+
+#EXTINF:-1 group-title="Discovery" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaDfFXomJfSuQ1zcO-UGWhJ4Rwranig0LIaSauXd91p0Sw2QMYVV0Pvl4&s",Animal planet
+http://newlife3.wanicelife.com:8880/kg14m3n1110/dssewaas123/3161
+
+#EXTINF:-1 group-title="Discovery" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWJLYfd61hnlOlHZygvqPkNuzavH17vhclCw&s",Wild Earth
+https://wildearth-roku.amagi.tv/masterR720P.m3u8
+
+#EXTINF:-1 group-title="Discovery" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu6lWNjUQqQoKGmgOIPjLm-TQyx4Efq7aX8RWFCJgGwQ&s",CGTN Documentary
+http://livedoc.cgtn.com/1000d/prog_index.m3u8?checkedby:D4N-IPTV
+
+#EXTINF:-1 group-title="Discovery" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTxN15rLcjnZVvAR77YoE8-IfitHwL2T8iXdQRGfISAA&s",National Geographic
+http://eng3.cloud.xxx-cdn.org:8978/8be1228d28529b58bcb9b83a29c27a025b65b861902c065e277117fb18aabaa8735ed9e1/index.m3u8?filter=tracks:v1a5&token=51f99490af22ade8c9e1e77336454a468b42f83548349d38a64fe556aa64c1f0800414bdb21c964ca85e42dae8b00e9e2eb41d2d347fc74e423b2787a8422f4daca4-7310e29894e743e2ff411d304268935f
+
 #EXTINF:-1 group-title="Discovery" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFxkA5U96lAV8wVJsWYW25eF5cZtjuAh0arIBElPuatg&s",Discovery(multi audio)
 https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Discovery.m3u8
 
 #EXTINF:-1 group-title="Discovery" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcqXbUvecxGyt6x-KXLXtgQIC2W7xAwgn9ZZwryv4w85VdaTTop26cA4E&s",Net Geo
 http://xtv.ooo:8080/RiyazMPT/433833/109976
+
+
 
 
 
