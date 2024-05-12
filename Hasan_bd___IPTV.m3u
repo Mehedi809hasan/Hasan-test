@@ -32,7 +32,7 @@ https://live.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 https://live-hls-web-aje.getaj.net/AJE/02.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Reuters_Logo.svg/768px-Reuters_Logo.svg.png",Reutars
-https://ytapi-2.piratestv.workers.dev/@Reuters.m3u8
+http://xtv.ooo:8080/RiyazMPT/433833/347216
 
 #EXTINF:-1 group-title="News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZkeZrPYyifLZ6RTxgKsFj8izeNR5lp9CXB-jvi9UhrQ&s",Wion
 http://watchindia.net:8880/live/69354/82115/816.ts
