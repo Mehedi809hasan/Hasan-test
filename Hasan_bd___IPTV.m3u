@@ -121,6 +121,25 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/index.m3u8
 #EXTINF:-1 group-title="kolkata Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPYHe3s0wlLn4C3ZOtA89LNuYzdoaw9hzrxBOzX7JsUSoxHUOrLy74KQI&s",Sangeet Bangla
 http://longstream-03.ajaah.com/PlayBoxTV/SangeetBangla/playlist.m3u8
 
+#EXTINF:-1 group-title="kolkata Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQse8o46jzAUKwQ3LNcpwBan0crIL-J5Sbwhfhe3lJydw&s",Sony Aath
+http://mag.trexlive.me:80/Michael88/Michael88/1112197
+
+#EXTINF:-1 group-title="kolkata Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvUl7jdv9-BM05x47IFvMFJJly-Qb9LR7qhgC_TRIpp2y4N2OeViVOXM4&s",ABP Ananda
+http://195.26.87.217/live.ts?channelId=40480&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 group-title="kolkata Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuU3yAQcGDoJrsSvuhDe3UHvEift3bWA14pQ&s",High News Kolkata
+http://highmedia.livebox.co.in:80/HIGHNEWShls/LIVE.m3u8
+
+#EXTINF:-1 group-title="kolkata Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTy5Cw7gZqkGj7G06s1ucITc1oYpBUS4vAxbGXW-XTDGA&s",Bangla Jago
+http://banglajagotv.livebox.co.in:80/banglajagohls/24x7.m3u8
+
+#EXTINF:-1 group-title="kolkata Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF5heMg3QZi10ooxC-uAfhpE5HMPdVijkNjA&s",TV9 Bangla
+http://pk.cloud.xxx-cdn.org:6283/8be1228d28529b58bcb9b83a29c478644b75be70992113/index.m3u8?token=51060a4e12bdc380ee7fe5599388f8e8e16cbcb70962d792f8635fd2c6a0d846e45014a738c0f7bb85c0fb682ac61f85265e41b9c01f6b7788d2d359c688f627c0bd-fb5ad8d842057d1d41e244945b0fb21b
+
+#EXTINF:-1 group-title="kolkata Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLw1UqInUiKvLTdufQqjMS8YNWbQuYTJOv7w&s",Republic Bangla
+http://pk.cloud.xxx-cdn.org:6283/8be1228d28529b58bcb9b83a29c26b0d4175b3779d321c44376707e610aab9ad73/index.m3u8?token=f49e914999c53cd6f2c46fe3fac39fd4cce154e5e8640296eab5fbbc5e8f8040901af1a0d7b7244260a780eacac61fb5ddf9ecf03a664508eb46a7a6b0884d24c021-470a870a652fab6e95c1e30ba6f459a9
+
+
 
 
 
