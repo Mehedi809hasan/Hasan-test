@@ -7,6 +7,10 @@ https://drive.usercontent.google.com/download?id=1FN4U5NvsSb9E2USXII-oZd0MkMHo0x
 
 
 
+
+#EXTINF:-1 group-title="News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrOwpjJMYSSo2YUS-FD9Rumr3gqF29R8PUW4RboGcHu-ItseQzrh6g5tk&s",BBC News
+http://xtv.ooo:8080/827728/928828/346360
+
 #EXTINF:-1 group-title="News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa6aJUVNi5QVlzgANYmM38uLUAmJfIy8eEzwZInawnLwbbBb8yNU-o8m0&s",DW
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream01/streamPlaylist.m3u8
 
