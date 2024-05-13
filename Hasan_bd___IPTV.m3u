@@ -146,6 +146,9 @@ http://pk.cloud.xxx-cdn.org:6283/8be1228d28529b58bcb9b83a29c478644b75be70992113/
 #EXTINF:-1 group-title="kolkata Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLw1UqInUiKvLTdufQqjMS8YNWbQuYTJOv7w&s",Republic Bangla
 http://pk.cloud.xxx-cdn.org:6283/8be1228d28529b58bcb9b83a29c26b0d4175b3779d321c44376707e610aab9ad73/index.m3u8?token=f49e914999c53cd6f2c46fe3fac39fd4cce154e5e8640296eab5fbbc5e8f8040901af1a0d7b7244260a780eacac61fb5ddf9ecf03a664508eb46a7a6b0884d24c021-470a870a652fab6e95c1e30ba6f459a9
 
+#EXTINF:-1 group-title="kolkata Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaxLRCZrjaIV9ooQjuVkFm5fhva6tUbmWJWXMP8IbvZ3egB-Kddu7KOz4&s",Amar Bangla Digital
+https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestream.m3u8
+
 
 
 
