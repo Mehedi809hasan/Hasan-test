@@ -213,9 +213,6 @@ http://cdn01.palki.tv/live/BTV-M/index.m3u8
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://vipotv.com/wp-content/uploads/2021/04/ekattor-tv-live-vipotv.png",71 Tv
 http://cdn01.palki.tv/live/EkattorTV-M/index.m3u8
 
-#EXTINF:-1 group-title="bangladeshi" tvg-logo="https://i0.wp.com/www.somoynews.tv/icon.png?w=640&ssl=1",Somay tv (YT)
-https://ythls.armelin.one/channel/UCxHoBXkY88Tb8z1Ssj6CWsQ.m3u8
-
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://i0.wp.com/www.somoynews.tv/icon.png?w=640&ssl=1",Somay Tv palky
 http://cdn01.palki.tv:80/live/SomoyTV-M/tracks-v1a1/mono.m3u8
 
