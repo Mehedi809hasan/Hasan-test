@@ -422,6 +422,9 @@ https://web.nandansyst.com/hls/nandan.m3u8
 
 
 
+#EXTINF:-1 group-title="sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQACGMrn15a2FGCaOEBymMx403yt0USFY6DVK71o2rN9QA5LubXrdnqqRg&s",tofee Premium(only match time)
+https://its-nayeemparvez.xyz/toffee/stream.php?id=match-1&hls=master_1300.m3u8
+
 #EXTINF:-1 group-title="sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1qoQsifGyIi_3uRsq-zHeyoxpvMRRy46L6GZgqpgBrA&s",WWE
 https://m3u8us.qr-build.club/gBe33ANHOQoPUuR0nQRQhQ/1715428935/us_wwe/index.m3u8
 
