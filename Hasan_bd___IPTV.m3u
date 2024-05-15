@@ -52,6 +52,24 @@ http://watchindia.net:8880/live/69354/82115/816.ts
 
 
 
+
+
+
+#EXTINF:-1 group-title="Bollywood Music" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjBR82WPovcAV-_VDe7yt0JnNHd2s_V5oyZ8gYF9wfNA&s",Desi Channel
+http://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/chunks.m3u8
+
+#EXTINF:-1 group-title="Bollywood Music" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkPSOo_AQ17exRYg_sB5asXEJGfvA-uW_MsfTr3zpbV5duu3vzRpn-o8M&s",B4U Music
+http://watchindia.net:8880/live/83023/62335/2113.m3u8
+
+#EXTINF:-1 group-title="Bollywood Music" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6rNL-ClZJUB-HNi-rkYoHmNm9HJRFwUca8d1d76gUJ89kGRer9AMUp0c&s",B4U Plus
+http://watchindia.net:8880/live/83023/62335/823.m3u8
+
+#EXTINF:-1 group-title="Bollywood Music" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ1wKiL_ZndY4Ndl96WaFcSAp6_asb6nMocvGFg581WggLWXXw3_EiF9s&s",Kadak Hits
+http://watchindia.net:8880/live/83023/62335/798.m3u8
+
+#EXTINF:-1 group-title="Bollywood Music" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhF4K7x3EGzpxkEflQR9AyNfHfv7bCRlYH8g&s",7x Music
+https://stream.e2is.in/hls/7xMusic.m3u8
+
 #EXTINF:-1 group-title="Bollywood Music" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ892WM0w7PzwQTrkszu4XhWtJK4tf6kJjlllM_LTzj3-rx82YOaDL_SoA&s",zoom
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zoom/default/zoom.m3u8
 
