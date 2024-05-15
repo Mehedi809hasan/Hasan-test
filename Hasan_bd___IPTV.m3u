@@ -144,10 +144,13 @@ http://banglajagotv.livebox.co.in:80/banglajagohls/24x7.m3u8
 http://pk.cloud.xxx-cdn.org:6283/8be1228d28529b58bcb9b83a29c478644b75be70992113/index.m3u8?token=51060a4e12bdc380ee7fe5599388f8e8e16cbcb70962d792f8635fd2c6a0d846e45014a738c0f7bb85c0fb682ac61f85265e41b9c01f6b7788d2d359c688f627c0bd-fb5ad8d842057d1d41e244945b0fb21b
 
 #EXTINF:-1 group-title="kolkata Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLw1UqInUiKvLTdufQqjMS8YNWbQuYTJOv7w&s",Republic Bangla
-http://pk.cloud.xxx-cdn.org:6283/8be1228d28529b58bcb9b83a29c26b0d4175b3779d321c44376707e610aab9ad73/index.m3u8?token=f49e914999c53cd6f2c46fe3fac39fd4cce154e5e8640296eab5fbbc5e8f8040901af1a0d7b7244260a780eacac61fb5ddf9ecf03a664508eb46a7a6b0884d24c021-470a870a652fab6e95c1e30ba6f459a9
+http://185.243.7.154:80/play/live.php?mac=00:1A:79:AE:69:8E&stream=225831&extension=ts&play_token=AkOUANnkDA
 
 #EXTINF:-1 group-title="kolkata Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaxLRCZrjaIV9ooQjuVkFm5fhva6tUbmWJWXMP8IbvZ3egB-Kddu7KOz4&s",Amar Bangla Digital
 https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestream.m3u8
+
+
+
 
 
 
