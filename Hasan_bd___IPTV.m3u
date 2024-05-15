@@ -53,7 +53,8 @@ http://watchindia.net:8880/live/69354/82115/816.ts
 
 
 
-
+#EXTINF:-1 group-title="Bollywood Music" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMkQlOn90ttKLXEJhnD4D1HW1wz2io_7IlOzv0qqwHa7a5DWZvnn8zYRs&s",Desi Dhol
+https://streaming.ptcplay.com/ptcdholtvINOne/smil:Live.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="Bollywood Music" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjBR82WPovcAV-_VDe7yt0JnNHd2s_V5oyZ8gYF9wfNA&s",Desi Channel
 http://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/chunks.m3u8
