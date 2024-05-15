@@ -412,8 +412,8 @@ https://web.nandansyst.com/hls/nandan.m3u8
 #EXTINF:-1 group-title="sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1qoQsifGyIi_3uRsq-zHeyoxpvMRRy46L6GZgqpgBrA&s",WWE
 http://185.243.7.154:80/play/live.php?mac=00:1A:79:AE:69:8E&stream=164032&extension=ts&play_token=MOlTk1pTuw
 
-#EXTINF:-1 group-title="sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1qoQsifGyIi_3uRsq-zHeyoxpvMRRy46L6GZgqpgBrA&s",WWE
-http://xtv.ooo:8080/malik625538/digitalstore1year/347336
+#EXTINF:-1 group-title="sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1qoQsifGyIi_3uRsq-zHeyoxpvMRRy46L6GZgqpgBrA&s",WWE (Netflix)
+http://185.243.7.154:80/play/live.php?mac=00:1A:79:AE:69:8E&stream=1414083&extension=ts&play_token=kJJk3cZp00
 
 #EXTINF:-1 group-title="sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9onPiJrCa8R-O8pKSUnmcQ0NWctrsgvQfp70tTCVjdnss51-nPAijxsk&s",Gtv(Star share)
 http://starshare.live:8080/Jenny/Jenny/767
