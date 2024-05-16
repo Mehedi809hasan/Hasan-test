@@ -117,6 +117,65 @@ https://epiconvh.s.llnwi.net/showbox/master_1080.m3u8
 
 
 
+#EXTINF:-1 group-title="Hindy Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV4-OcPzx0tL-lYGYzGO2uQ12bpq9y22sOEpWnjOiBYrpPy7id5zcO-p4&usqp=CAE&s",Colours Hd
+http://170.254.18.107/CINEPLEX/index.m3u8
+
+#EXTINF:-1 group-title="Hindy Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0qOMEkQFzMOqHUpvXVAfSwIv0HoOjqQ60awXauixsbA&s",Sony Entertainment
+http://103.120.172.74:5000
+
+#EXTINF:-1 group-title="Hindy Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHMI9mhAWSRdeLXjaxzLtOZyDD59lpYRR4S2l_eJDEmg&s",Sony max
+http://103.120.172.74:1150
+
+#EXTINF:-1 group-title="Hindy Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsjPPFmz4B3iN2GJ8V95sLoxdLd_K40XHPgw&s",Sony Pix
+http://xtv.ooo:8080/live/shahz18/18usman/66224.ts
+
+#EXTINF:-1 group-title="Hindy Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHC48SZoY6K6qpWGzfHz5O6uKJNJ1jUhg4QQ&s",Sony Kal
+https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Hindy Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlMDsNQOYYAlQWOqtSiYETiTbLxvChR4TFESrQHGneS7V72NiGTJTE0uQ&s",Star Plus
+http://195.26.87.217/live.ts?channelId=200&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 group-title="Hindy Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtl46d2KYT63yj2mQRCRFz98_JQyeFqeF9GrOEmjFuIjb5iTYmRIveukw&s",Sony Sab
+http://195.26.87.217/live.ts?channelId=191&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 group-title="Hindy Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu1r2ijy07km5OkL7Z7w6KitmgmYuREBbaPUf9Yp160w&s",Sony Pal
+http://195.26.87.217/live.ts?channelId=188&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 group-title="Hindy Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdwfEKNgAOiu-6RXNsFjPhs1kQ2LMfZeFC_WEAswTn4g&s",Star India
+http://103.120.172.74:5200
+
+#EXTINF:-1 group-title="Hindy Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbaxmAZFVVdNhlbS2gK5RmlvrGSD11Jio6MtAaeEMnxg&s",Zee Marathi
+http://103.120.172.74:1040
+
+#EXTINF:-1 group-title="Hindy Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyGX-jp9zdX8LI29KI4U2E7zIM9v3VsqTtfj-houkHlRTbAB-EKwS_CL8&s",Colour Ristay
+http://watchindia.net:8880/live/83023/62335/830.m3u8
+
+#EXTINF:-1 group-title="Hindy Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpo1Z0FrZEK5lnuXc9d3BdW65m85uDNpeBvayvF1dzNybah29RzriHzTM&s",Star Utshab
+http://watchindia.net:8880/live/83023/62335/2493.m3u8
+
+#EXTINF:-1 group-title="Hindy Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4Gi8cbdmFCuVzO21B6_AMkSH_5sEjUO4qvzagp8lRMpfjVoXwlk-0ics&s",&Tv
+http://watchindia.net:8880/live/83023/62335/782.m3u8
+
+#EXTINF:-1 group-title="Hindy Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqGC39qcE_8F0ttGDwKSklR0x97wcYpY38dpHF9e_cVQ&s",Zee Anmool
+http://watchindia.net:8880/live/83023/62335/813.m3u8
+
+#EXTINF:-1 group-title="Hindy Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKt2PPqSHbE3r5_t7FljDUITLrJq-qWhD41a4yLB5quXtN_rspyQ8xU2w&s",Zee Tv
+http://watchindia.net:8880/live/83023/62335/1970.m3u8
+
+#EXTINF:-1 group-title="Hindy Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTQ6yuAQjkReeqSALJgQ-IEOfzTsWGil9d58uBOL684GgF2xanRsc6HV8&s",Zee zest
+http://watchindia.net:8880/live/83023/62335/2359.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
 
 #EXTINF:-1 group-title="Bollywood Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRizyJWcut8jUoR1-MvlvjMeR_FdSm3ZYZ9I0VR2e0SQA&s",Colour Cineplex
 http://170.254.18.107/CINEPLEX/index.m3u8
