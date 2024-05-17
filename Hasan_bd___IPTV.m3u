@@ -180,8 +180,6 @@ http://homeip.biz/zecVOD24/7/index.m3u8?token=fb7580754d6e58927b723beb841c6344
 
 
 
-#EXTINF:-1 group-title="Hindy Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK_ag3iEjadHsQPbigNOm8SXtrEumvlr468g&s",Enter10 Hindy
-http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:72:E6:E6&stream=280834&extension=ts&play_token=KYBy4UwuqL
 
 #EXTINF:-1 group-title="Hindy Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV4-OcPzx0tL-lYGYzGO2uQ12bpq9y22sOEpWnjOiBYrpPy7id5zcO-p4&usqp=CAE&s",Colours Hd
 http://starshare.live:8080/12346/12346/219
@@ -201,8 +199,11 @@ http://xtv.ooo:8080/live/shahz18/18usman/66224.ts
 #EXTINF:-1 group-title="Hindy Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHC48SZoY6K6qpWGzfHz5O6uKJNJ1jUhg4QQ&s",Sony Kal
 https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="Hindy Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlMDsNQOYYAlQWOqtSiYETiTbLxvChR4TFESrQHGneS7V72NiGTJTE0uQ&s",Star Plus
+#EXTINF:-1 group-title="Hindy Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlMDsNQOYYAlQWOqtSiYETiTbLxvChR4TFESrQHGneS7V72NiGTJTE0uQ&s",Star Plus 4k
 http://195.26.87.217/live.ts?channelId=200&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 group-title="Hindy Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlMDsNQOYYAlQWOqtSiYETiTbLxvChR4TFESrQHGneS7V72NiGTJTE0uQ&s",Star Plus SD
+http://starshare.live:8080/12346/12346/3744
 
 #EXTINF:-1 group-title="Hindy Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtl46d2KYT63yj2mQRCRFz98_JQyeFqeF9GrOEmjFuIjb5iTYmRIveukw&s",Sony Sab
 http://195.26.87.217/live.ts?channelId=191&uid=7435&deviceMac=00:1A:79:51:4B:3A
