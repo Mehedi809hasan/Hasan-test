@@ -260,6 +260,10 @@ http://195.26.87.217/live.ts?channelId=152&uid=7435&deviceMac=00:1A:79:51:4B:3A
 
 
 
+
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLFHU94r5VnNiOguv-ctDgozrb_76vGk0BLy51qyO92w&s",24/7 Taarak Mehta Ka Ooltah Chashmah
+http://homeip.biz/tarVOD24/7/index.m3u8?token=6a7e99f719209a59d13544bda0a1168f
+
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStLi37YpIx0Y2dN9EcathoGiY437_QiwhYzqSmHhY9uA&s",24/7 Kapil sharma Show
 http://xtv.ooo:8080/adnankb2006/86057314/342075
 
