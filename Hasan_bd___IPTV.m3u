@@ -232,6 +232,11 @@ http://watchindia.net:8880/live/83023/62335/2359.m3u8
 
 
 
+#EXTINF:-1 group-title="Bollywood Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0RHzWjCYkTpbAPKYN9KySmm8AKWy9Ht8bkPwXBqREBA&s",Goldmines
+http://xtv.ooo:8080/malik625538/digitalstore1year/112972
+
+#EXTINF:-1 group-title="Bollywood Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo-uS2-dhDYt3dUpQPRPtp8PuJ8qGSGVyuN3GpC6HKMA&s",Goldmines Bollywood
+http://xtv.ooo:8080/malik625538/digitalstore1year/112973
 
 #EXTINF:-1 group-title="Bollywood Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAdKH5dggcZUoJ6ewav5DMKJffp11PIS7bKA&s",Tata Play Bollywood
 http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:A2:C2:86&stream=156028&extension=m3u8&play_token=EjRbwmymO9
@@ -311,6 +316,8 @@ http://195.26.87.217/live.ts?channelId=152&uid=7435&deviceMac=00:1A:79:51:4B:3A
 
 
 
+
+
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLFHU94r5VnNiOguv-ctDgozrb_76vGk0BLy51qyO92w&s",24/7 Taarak Mehta Ka Ooltah Chashmah
 http://homeip.biz/tarVOD24/7/index.m3u8?token=6a7e99f719209a59d13544bda0a1168f
 
@@ -331,6 +338,8 @@ https://mrsmarts.shop/xtv.php?id=340875
 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxjWUbvsUbQ5508_YVKo-jUyxw4cqD4QNNMdWpZwWmsQ&s",24/7Crime Petrol
 https://mrsmarts.shop/xtv.php?id=340874
+
+
 
 
 
