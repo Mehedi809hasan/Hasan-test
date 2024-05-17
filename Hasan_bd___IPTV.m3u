@@ -69,6 +69,12 @@ http://watchindia.net:8880/live/83023/62335/832.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyzMdqVrQ9DM8F-95aPEky0SgxDYhE7TI9BJe7bfDbrA&s",zee News
 http://watchindia.net:8880/live/83023/62335/832.m3u8
 
+#EXTINF:-1 group-title="News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ11cal6yTh4l9TPCC4B_pIMVh1nt3Bf8h9Ay0ZG9FKcg&s",Republic Bharat
+http://watchindia.net:8880/live/83023/62335/817.m3u8
+
+#EXTINF:-1 group-title="News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ11cal6yTh4l9TPCC4B_pIMVh1nt3Bf8h9Ay0ZG9FKcg&s",Republic News
+http://watchindia.net:8880/live/83023/62335/815.m3u8
+
 
 
 
