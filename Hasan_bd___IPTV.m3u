@@ -644,8 +644,8 @@ https://livess.ncare.live/live-orgin/colosal.stream/chunks.m3u8
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBcCig8liSTxxTOglj7-IFmKKyTij_LSRCwA&s",Nandan Tv
 http://185.243.7.154:80/play/live.php?mac=00:1A:79:AE:69:8E&stream=225811&extension=ts&play_token=g47UZJDkip
 
-
-
+#EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSj7UJ38Gr6UfONHOXEB_-x377ZwiS9Ws9G6G3-ZCxvw&s",Deshy Tv
+http://starshare.live:8080/12346/12346/414
 
 
 
