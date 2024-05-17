@@ -802,6 +802,9 @@ http://121.91.61.106:8000/play/a03o/index.m3u8
 
 
 
+#EXTINF:-1 group-title="Discovery" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIbA7j7KolVe7K4RLssvjmUgkHAg7jE6Tn5eonrr7xHQ&s",Sony BBC Earth
+http://watchindia.net:8880/live/83023/62335/789.m3u8
+
 #EXTINF:-1 group-title="Discovery" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxmkS3pU6nLT-Me6aUkVW7L6o6-W5_RFXf4NzXyFbfZkZ77ZBbm2zHv6Y&s",Animal planet
 https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Animal-Planet.m3u8
 
