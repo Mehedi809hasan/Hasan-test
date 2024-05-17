@@ -271,6 +271,11 @@ https://mrsmarts.shop/xtv.php?id=340874
 
 
 
+
+
+#EXTINF:-1 group-title="kolkata Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWwAH9zylGlCiA7Ak-96qVSJvbVeic36CE7AxO3jT71g&s",Bangla plus
+https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
+
 #EXTINF:-1 group-title="kolkata Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSs1-hNRktdaNndiqJ0jnocLBAxIyHJp_VLFZDboeKQZQ&s", Enter 10 Bangla
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
 
