@@ -90,6 +90,9 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/index.m3u8
 #EXTINF:-1 group-title="Bollywood Music" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4Q3WMFUGBbEQEyXG17UT8rulugTYvjofVkHRss_GTAgsCfmrrwJJtoRI&s",Mtv Beats
 http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:A2:C2:86&stream=1118070&extension=m3u8&play_token=EjRbwmymO9
 
+#EXTINF:-1 group-title="Bollywood Music" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrey0W3BESoyBz37n-kjbWzFFBTOUFf_aJjdUtadcUgw&s",MTV Plus
+http://starshare.live:8080/12346/12346/94499
+
 #EXTINF:-1 group-title="Bollywood Music" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSS6k-6YbnOt4HZLlWEyAwKq2efiSWUGpUEpbIJUgdrule3UQNSh3aRXmc&s",9xm
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9XM/default/index.m3u8
 
@@ -110,6 +113,17 @@ https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccda
 
 #EXTINF:-1 group-title="Bollywood Music" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC-SqTkqR8f3peEjEQDage1nqICL0jebSyN2cZ3Ml_U4n6BeXSgV1IVck&s",Show Box
 https://epiconvh.s.llnwi.net/showbox/master_1080.m3u8
+
+#EXTINF:-1 group-title="Bollywood Music" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoSwfLFMKmRDA2WuDjlyh2PMduKMmS4t_pmS3MUCwA2Q&s",Bollay Bollay
+https://mcncdndigital.com/balleballetv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Bollywood Music" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfgiBqaRbWKmE-iP8KvUQpP0qKt4E9D5XjDAzTAhkkNg&s",E24
+http://watchindia.net:8880/live/83023/62335/829.m3u8
+
+#EXTINF:-1 group-title="Bollywood Music" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRolVXxr_LPDvMiFYLNpoCpQ7M0DTtWYBx3eBkPUyWJsQ&s",Zing
+http://starshare.live:8080/12346/12346/970
+
+
 
 
 
