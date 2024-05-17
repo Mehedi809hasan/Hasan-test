@@ -175,6 +175,9 @@ http://homeip.biz/zecVOD24/7/index.m3u8?token=fb7580754d6e58927b723beb841c6344
 #EXTINF:-1 group-title="Hindy Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV4-OcPzx0tL-lYGYzGO2uQ12bpq9y22sOEpWnjOiBYrpPy7id5zcO-p4&usqp=CAE&s",Colours Hd
 http://starshare.live:8080/12346/12346/219
 
+#EXTINF:-1 group-title="Hindy Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV4-OcPzx0tL-lYGYzGO2uQ12bpq9y22sOEpWnjOiBYrpPy7id5zcO-p4&usqp=CAE&s",Aapka Colours
+http://starshare.live:8080/12346/12346/34154
+
 #EXTINF:-1 group-title="Hindy Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0qOMEkQFzMOqHUpvXVAfSwIv0HoOjqQ60awXauixsbA&s",Sony Entertainment
 http://103.120.172.74:5000
 
