@@ -780,8 +780,8 @@ https://humsab.xyz/GBanTv/index.m3u8
 #EXTINF:-1 group-title="sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6FQiMUVJcO5Ff0N4RsyjjHvDAqfQz7aLtQw&usqp=CAU",star sports 1
 http://41.205.93.154/STARSPORTS1/index.m3u8
 
-#EXTINF:-1 group-title="sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQACGMrn15a2FGCaOEBymMx403yt0USFY6DVK71o2rN9QA5LubXrdnqqRg&s",Ipl Hindy Jio
-https://bunyhlsipla.bunycdn.com/live/1080pa.m3u8
+#EXTINF:-1 group-title="sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQACGMrn15a2FGCaOEBymMx403yt0USFY6DVK71o2rN9QA5LubXrdnqqRg&s",Ipl Tata play
+https://jancdn-b.bunycdn.com/live/720pa.m3u8
 
 #EXTINF:-1 group-title="sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQACGMrn15a2FGCaOEBymMx403yt0USFY6DVK71o2rN9QA5LubXrdnqqRg&s",Ipl English(ads free)
 https://mrsmarts.shop/b1g.php?id=662135
