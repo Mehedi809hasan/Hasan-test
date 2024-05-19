@@ -756,14 +756,6 @@ http://185.243.7.154:80/play/live.php?mac=00:1A:79:AE:69:8E&stream=225811&extens
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSj7UJ38Gr6UfONHOXEB_-x377ZwiS9Ws9G6G3-ZCxvw&s",Deshy Tv
 http://starshare.live:8080/12346/12346/414
 
-#EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSc-R0rER3dU-I-OMfchprA2b6zo7PxuQrwCQ&s",KTv Bangla
-https://server1.jadubd.com/ktvbangla/ktvbangla/playlist.m3u8
-
-#EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWMcziSicYCJNZ6_HZJmYq6Vbcfmot_WjM8IVxGW34gA&s",Channel 23
-https://server1.jadubd.com/channel23/channel23/chunklist_w695517512.m3u8
-
-#EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxkIxCy9hhKIuZqBB58JJqq-D2LX2SziZQHAaay1grT2xpgII9ZpEtclE&s",Deshy Tv
-https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 
 
 
