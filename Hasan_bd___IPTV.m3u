@@ -802,9 +802,6 @@ https://jancdn-b.bunycdn.com/live/720pa.m3u8
 https://mrsmarts.shop/b1g.php?id=662135
 
 #EXTINF:-1 group-title="sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIpl8Di6Y0ONKKp1w-4IapgZV-E6CtajvbTBn60UJ9Sg&s",Ptv sports
-http://121.91.61.106:8000/play/a00l/index.m3u8
-
-#EXTINF:-1 group-title="sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIpl8Di6Y0ONKKp1w-4IapgZV-E6CtajvbTBn60UJ9Sg&s",Ptv sports
 http://xtv.ooo:8080/malik625538/digitalstore1year/167567
 
 #EXTINF:-1 group-title="sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvu9_-cdI1HnBfC8U6GJehUbf5eNZSwL_33HlswdVW6__2EnPvfOWiBls&s",Ten cricket
@@ -867,14 +864,8 @@ https://mhdsportv.com/crichd/stream.php?id=supercricket&e=.m3u8
 #EXTINF:-1 group-title="sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYLYlCcM7zqZ_vdplyR-H8hsHJ26UVoTw_c27fPRJlig&s",Sky Sports cricket
 http://xtv.ooo:8080/malik625538/digitalstore1year/167594
 
-#EXTINF:-1 group-title="sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7fDhJ0N6G-ooxKdyoePrhwcoqqGeV190bOXTKmaighA&s",RTA Sports
-http://xtv.ooo:8080/2177643999/314553678/347409
-
 #EXTINF:-1 group-title="sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYmQ3gkiYWF1Pvc0k3K-uiT3YNDF1MX-BgtQ&s",Willow Hd
 http://watchindia.net:8880/live/69354/82115/2145.ts
-
-#EXTINF:-1 group-title="sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRd2VAqNIWd5_xA1UtalHOKCRHCvuEzb1JyXooM-SHvug&s",A Sports
-http://121.91.61.106:8000/play/a03o/index.m3u8
 
 #EXTINF:-1 group-title="sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThOjRXZkYInmgyIbQ35jNGcrAzBJ6Xf9mEyQ&s",Fifa Plus
 https://4b92bb6a.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1hdF9GSUZBUGx1c19ITFM/playlist.m3u8?ads.wurl_channel=1484&ads.wurl_name=FIFAPlus&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
