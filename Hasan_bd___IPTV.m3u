@@ -215,22 +215,22 @@ http://xtv.ooo:8080/adnankb2006/86057314/221254
 http://starshare.live:8080/12346/12346/34154
 
 #EXTINF:-1 group-title="Hindy Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0qOMEkQFzMOqHUpvXVAfSwIv0HoOjqQ60awXauixsbA&s",Sony Entertainment
-http://xtv.ooo:8080/adnankb2006/86057314/66164
+https://mhdtvweb.com/sony/watch.php?id=1000009246&e=.m3u8
 
 #EXTINF:-1 group-title="Hindy Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHMI9mhAWSRdeLXjaxzLtOZyDD59lpYRR4S2l_eJDEmg&s",Sony max
-http://103.120.172.74:1150
+https://mhdtvweb.com/sony/watch.php?id=1000009247&e=.m3u8
 
 #EXTINF:-1 group-title="Hindy Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsjPPFmz4B3iN2GJ8V95sLoxdLd_K40XHPgw&s",Sony Pix
-http://xtv.ooo:8080/live/shahz18/18usman/66224.ts
+https://mhdtvweb.com/sony/watch.php?id=1000009258&e=.m3u8
 
 #EXTINF:-1 group-title="Hindy Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHC48SZoY6K6qpWGzfHz5O6uKJNJ1jUhg4QQ&s",Sony Kal
-https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
+https://spt-sonykal-1-us.lg.wurl.tv/playlist_512k.m3u8
 
 #EXTINF:-1 group-title="Hindy Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlMDsNQOYYAlQWOqtSiYETiTbLxvChR4TFESrQHGneS7V72NiGTJTE0uQ&s",Star Plus 4k
 http://195.26.87.217/live.ts?channelId=200&uid=7435&deviceMac=00:1A:79:51:4B:3A
 
-#EXTINF:-1 group-title="Hindy Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlMDsNQOYYAlQWOqtSiYETiTbLxvChR4TFESrQHGneS7V72NiGTJTE0uQ&s",Star Plus SD
-http://starshare.live:8080/12346/12346/3744
+#EXTINF:-1 group-title="Hindy Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlMDsNQOYYAlQWOqtSiYETiTbLxvChR4TFESrQHGneS7V72NiGTJTE0uQ&s",Star Plus 
+https://livegeoroueu.akamaized.net/28072023/smil:starplusau1.smil/chunklist_b896000.m3u8?hdntl=exp=1716272347~acl=!*/28072023/smil:starplusau1.smil/*!yuppTVCom_5_-1_3d47f3369ee745b9_MY_111.90.144.60/payload/yuppTVCom_5_-1_3d47f3369ee745b9_MY_111.90.144.60/*~data=hdntl~hmac=775714e7ca0610b376f20e0433bff379093c39acfe2fc75e814531fae191e145
 
 #EXTINF:-1 group-title="Hindy Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtl46d2KYT63yj2mQRCRFz98_JQyeFqeF9GrOEmjFuIjb5iTYmRIveukw&s",Sony Sab
 http://195.26.87.217/live.ts?channelId=191&uid=7435&deviceMac=00:1A:79:51:4B:3A
