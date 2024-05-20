@@ -775,8 +775,8 @@ http://starshare.live:8080/12346/12346/414
 #EXTINF:-1 group-title="sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1qoQsifGyIi_3uRsq-zHeyoxpvMRRy46L6GZgqpgBrA&s",WWE
 http://homeip.biz/AR_WE/mpegts?token=f23a72fdf0ff745dea8db37f6b34f449
 
-#EXTINF:-1 group-title="sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1qoQsifGyIi_3uRsq-zHeyoxpvMRRy46L6GZgqpgBrA&s",WWE (Netflix)
-http://185.243.7.154:80/play/live.php?mac=00:1A:79:AE:69:8E&stream=1414083&extension=ts&play_token=kJJk3cZp00
+#EXTINF:-1 group-title="sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1qoQsifGyIi_3uRsq-zHeyoxpvMRRy46L6GZgqpgBrA&s",WWE (B1G)
+http://b1g.ooo:80/6594/6594/52070
 
 #EXTINF:-1 group-title="sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9onPiJrCa8R-O8pKSUnmcQ0NWctrsgvQfp70tTCVjdnss51-nPAijxsk&s",Gtv(Star share)
 http://starshare.live:8080/Jenny/Jenny/767
