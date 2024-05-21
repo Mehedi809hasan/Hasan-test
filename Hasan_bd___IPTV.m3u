@@ -181,6 +181,9 @@ http://homeip.biz/bad247/index.m3u8?token=64a3f4c9a111c6e11ece43f42bd2d4c8
 #EXTINF:-1 group-title="Bollywood Music" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqBEKV2XiM801i39V_56tHAYp8bbzCbMbrnQY_dG1IAQ&s",Guru Randhawa
 http://homeip.biz/rndhVOD24/7/index.m3u8?token=9656bc251f64b4cec236d347a6cbd047
 
+#EXTINF:-1 group-title="Bollywood Music" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA8aEKcgtTMIHwzQRLjc3OMXX6rGKoN9cytl2HHZDTYA&s",Udit Narayan
+http://starshare.live:8080/rvdgdf7647564/bvchgfd235454/135420
+
 #EXTINF:-1 group-title="Bollywood Music" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrSOEN352yeLvv0PwGsWiPaLM2vyFT2kskL3wydr6MjA&s",Hindy song 1990 to 2000
 http://homeip.biz/bbso1vod24/7/index.m3u8?token=ceb2ce08b3000759edb9626a4d95b58e
 
