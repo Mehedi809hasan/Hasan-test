@@ -233,10 +233,10 @@ http://xtv.ooo:8080/adnankb2006/86057314/66208
 http://xtv.ooo:8080/adnankb2006/86057314/221252
 
 #EXTINF:-1 group-title="Hindy Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtl46d2KYT63yj2mQRCRFz98_JQyeFqeF9GrOEmjFuIjb5iTYmRIveukw&s",Sony Sab
-http://195.26.87.217/live.ts?channelId=191&uid=7435&deviceMac=00:1A:79:51:4B:3A
+http://xtv.ooo:8080/adnankb2006/86057314/221256
 
 #EXTINF:-1 group-title="Hindy Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu1r2ijy07km5OkL7Z7w6KitmgmYuREBbaPUf9Yp160w&s",Sony Pal
-http://195.26.87.217/live.ts?channelId=188&uid=7435&deviceMac=00:1A:79:51:4B:3A
+http://xtv.ooo:8080/adnankb2006/86057314/104192
 
 #EXTINF:-1 group-title="Hindy Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdwfEKNgAOiu-6RXNsFjPhs1kQ2LMfZeFC_WEAswTn4g&s",Star India
 http://103.120.172.74:5200
