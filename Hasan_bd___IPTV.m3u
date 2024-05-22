@@ -175,15 +175,6 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/0a
 #EXTINF:-1 group-title="Bollywood Music" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHdwvECn0sTFiJYCLJ7TstOaJzIi06yN4Lpet7npxz9g6a8eOvBhnjWak&s",zee party Music
 http://homeip.biz/zp1247/index.m3u8?token=071d962ddb8ac27f3d59e6377038ee89
 
-#EXTINF:-1 group-title="Bollywood Music" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThdRKGg1ub9HWZplhzoj1NysrF_9DdKKFdZMz0xw95Jw&s",Badshah
-http://homeip.biz/bad247/index.m3u8?token=64a3f4c9a111c6e11ece43f42bd2d4c8
-
-#EXTINF:-1 group-title="Bollywood Music" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqBEKV2XiM801i39V_56tHAYp8bbzCbMbrnQY_dG1IAQ&s",Guru Randhawa
-http://homeip.biz/rndhVOD24/7/index.m3u8?token=9656bc251f64b4cec236d347a6cbd047
-
-#EXTINF:-1 group-title="Bollywood Music" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA8aEKcgtTMIHwzQRLjc3OMXX6rGKoN9cytl2HHZDTYA&s",Udit Narayan
-http://starshare.live:8080/rvdgdf7647564/bvchgfd235454/135420
-
 #EXTINF:-1 group-title="Bollywood Music" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrSOEN352yeLvv0PwGsWiPaLM2vyFT2kskL3wydr6MjA&s",Hindy song 1990 to 2000
 http://homeip.biz/bbso1vod24/7/index.m3u8?token=ceb2ce08b3000759edb9626a4d95b58e
 
@@ -200,7 +191,50 @@ http://homeip.biz/zecVOD24/7/index.m3u8?token=fb7580754d6e58927b723beb841c6344
 
 
 
+#EXTINF:-1 group-title="Hindy music (singer wise)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNnfLHih-iJ5NOAfB2JZy_l2NE42yUqogMOp1oWYPTCg&s",Sunidhi Chauhan
+http://starshare.live:8080/rvdgdf7647564/bvchgfd235454/135421
 
+#EXTINF:-1 group-title="Hindy music (singer wise)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd060XoIznYPXOZnpOC_0hVLLsCsvkvNCBvpOZX2K-lQ&s",Arijiy Singh
+http://starshare.live:8080/rvdgdf7647564/bvchgfd235454/135422
+
+#EXTINF:-1 group-title="Hindy music (singer wise)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXGI-NZiRDHZZt1jx12SlSkL9dWw7Us0bFzpiUJuf5HsSqdeXAkuw5W8M&s",Neha Kakkar
+http://starshare.live:8080/rvdgdf7647564/bvchgfd235454/135425
+
+#EXTINF:-1 group-title="Hindy music (singer wise)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOqgo4tx0LJwtJlLzokOg3sfHBE55J6tSpKauh9g2tmYAkKk3IjplX8rc&s",AR Rahman
+http://starshare.live:8080/rvdgdf7647564/bvchgfd235454/135427
+
+#EXTINF:-1 group-title="Hindy music (singer wise)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-z9m3K36WyToYrSWTjuPQb25m7M3oP3XuLqvFAz7X8NOP3xmyMP08vnA&s",Shreya Goshal
+http://starshare.live:8080/rvdgdf7647564/bvchgfd235454/135430
+
+#EXTINF:-1 group-title="Hindy music (singer wise)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCrNaeikz7nnayMJEBXr8LjF0gHlnQzPWhkggWNb_E3HPGm_FLY0VMqcY&s",Shaan
+http://starshare.live:8080/rvdgdf7647564/bvchgfd235454/135431
+
+#EXTINF:-1 group-title="Hindy music (singer wise)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSag5h69oKcwgT_tgfwBbPc3KhEHMwY3VPvKmAVOz1cyA1Vbx90ZqYsX7s&s",Adnan Sami
+http://starshare.live:8080/rvdgdf7647564/bvchgfd235454/135432
+
+#EXTINF:-1 group-title="Hindy music (singer wise)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0CtXjruOcj_pzn5VjczgpFq5M249dHy4JAF5cr36IMK3CPqML8D9OC9g&s",Javed Ali
+http://starshare.live:8080/rvdgdf7647564/bvchgfd235454/135435
+
+#EXTINF:-1 group-title="Hindy music (singer wise)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZuC17agm8cFpGUUaNR7kQhaG-XpNxC8xUlvxILEbFrBK6SEU5UlWIwbk&s",Mohit Chauhan
+http://starshare.live:8080/rvdgdf7647564/bvchgfd235454/135442
+
+#EXTINF:-1 group-title="Hindy music (singer wise)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLxsfHUBe1bs7ZJL0zF39c6Q2ZISkVKwtWCkJXPxWgeg&s",Tulsi Kumar
+http://starshare.live:8080/rvdgdf7647564/bvchgfd235454/135445
+
+#EXTINF:-1 group-title="Hindy music (singer wise)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhpOTNU6xrfIriu_rJtfa16er4DRxxWVhPURBlUc_U6w&s",Palak Muchhal
+http://starshare.live:8080/rvdgdf7647564/bvchgfd235454/135451
+
+#EXTINF:-1 group-title="Hindy music (singer wise)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1IsOg4s3mKsYkp0Xj2iCAtq9V1GG6MDSEyOwVWskObhHz7ejva_mcK-Q&s",Asha Bhosle
+http://starshare.live:8080/rvdgdf7647564/bvchgfd235454/135418
+
+#EXTINF:-1 group-title="Hindy music (singer wise)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz0T3p7GvI1UpirUxTGgJQ3NYU9603M8NH0KJywil5mQEmtXocnxtiJ3k&s",Badsha
+http://homeip.biz/bad247/index.m3u8?token=64a3f4c9a111c6e11ece43f42bd2d4c8
+
+#EXTINF:-1 group-title="Hindy music (singer wise)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCoyYEJj0B0GaYdY--xZhCCkWQ0qUV6aAirscDbctEKqvYmiO4zY7aO7Y&s",Guru Randhawa
+http://homeip.biz/rndhVOD24/7/index.m3u8?token=9656bc251f64b4cec236d347a6cbd047
+
+#EXTINF:-1 group-title="Hindy music (singer wise)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPmW2qdFe7P6vUKweHIcr_2zdNPKHWmOXHG_0DFtW4ER7j3yRljLgM3pU&s",Udit Narayan
+http://starshare.live:8080/rvdgdf7647564/bvchgfd235454/135420
 
 
 
