@@ -790,7 +790,7 @@ http://homeip.biz/AR_WE/mpegts?token=f23a72fdf0ff745dea8db37f6b34f449
 http://b1g.ooo:80/6594/6594/52070
 
 #EXTINF:-1 group-title="sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9onPiJrCa8R-O8pKSUnmcQ0NWctrsgvQfp70tTCVjdnss51-nPAijxsk&s",Gtv(Star share)
-http://starshare.live:8080/Jenny/Jenny/767
+http://starshare.live:8080/live/Sylvia/Sylvia/767.m3u8
 
 #EXTINF:-1 group-title="sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJK_ptS-wVAAK4_UlJQs15oIq5We8iviWBhDtcAzCDz4mazvEBnYcJuZo&s",GTv(need vpn)
 http://103.151.60.214:7444/1102/video.m3u8
