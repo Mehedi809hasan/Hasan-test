@@ -818,12 +818,6 @@ http://watchindia.net:8880/live/83023/62335/789.m3u8
 #EXTINF:-1 group-title="Discovery" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxmkS3pU6nLT-Me6aUkVW7L6o6-W5_RFXf4NzXyFbfZkZ77ZBbm2zHv6Y&s",Animal planet
 https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Animal-Planet.m3u8
 
-#EXTINF:-1 group-title="Discovery" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaDfFXomJfSuQ1zcO-UGWhJ4Rwranig0LIaSauXd91p0Sw2QMYVV0Pvl4&s",Animal planet
-https://varun-iptv.netlify.app/m3u/Animal_Planet.m3u8
-
-#EXTINF:-1 group-title="Discovery" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaDfFXomJfSuQ1zcO-UGWhJ4Rwranig0LIaSauXd91p0Sw2QMYVV0Pvl4&s",Animal planet
-https://dplus.gammacdn.workers.dev/videos/99.m3u8
-
 #EXTINF:-1 group-title="Discovery" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWJLYfd61hnlOlHZygvqPkNuzavH17vhclCw&s",Wild Earth
 https://wildearth-roku.amagi.tv/masterR720P.m3u8
 
