@@ -675,9 +675,6 @@ http://cdn01.palki.tv/live/DBC-M/index.m3u8
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEQX7SOjr_3VHiO2S7vE2Iv0SQ_lc77mvN65ZJw1llz7eYNDc0PiiBTao&s",Channel Europe
 https://livess.ncare.live/live-orgin/channeleurope.stream/chunks.m3u8
 
-#EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNELUIrL68MfiBaP04RgrziHzVhCBZcs5xmA&s",ION Tv Uk
-https://livess.ncare.live/live-orgin/iontvuk.stream/chunks.m3u8
-
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrNFFHkehxIs9L_gFtFxUAAKY1zm6GT0BeFQ&s",Jagoroni Tv
 https://livess.ncare.live/live-orgin/jagoronitv.stream/chunks.m3u8
 
@@ -862,8 +859,8 @@ http://xtv.ooo:8080/RiyazMPT/433833/109976
 
 
 
-
-
+#EXTINF:-1 group-title="Islamic" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNELUIrL68MfiBaP04RgrziHzVhCBZcs5xmA&s",ION Tv Uk
+https://livess.ncare.live/live-orgin/iontvuk.stream/chunks.m3u8
 
 #EXTINF:-1 group-title="Islamic" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbyzKxcIPud4bUQXqb0l3v9DH2t1gUOuqaAHGH-NPzK--2ojvPzH1FCO0&s",Islam Tv  English
 https://indiaiptvforum.shodns.in/cdn.php?id=18220
