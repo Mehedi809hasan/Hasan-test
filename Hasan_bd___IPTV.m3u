@@ -720,8 +720,8 @@ https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 #EXTINF:-1 group-title="sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1qoQsifGyIi_3uRsq-zHeyoxpvMRRy46L6GZgqpgBrA&s",WWE
 http://homeip.biz/AR_WE/mpegts?token=f23a72fdf0ff745dea8db37f6b34f449
 
-#EXTINF:-1 group-title="sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1qoQsifGyIi_3uRsq-zHeyoxpvMRRy46L6GZgqpgBrA&s",WWE (B1G)
-http://b1g.ooo:80/6594/6594/52070
+#EXTINF:-1 group-title="sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1qoQsifGyIi_3uRsq-zHeyoxpvMRRy46L6GZgqpgBrA&s",WWE(Dhoom)
+http://homeip.biz/wwe/index.m3u8?token=4e84a840bcd510c4cefb2b9553549164
 
 #EXTINF:-1 group-title="sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9onPiJrCa8R-O8pKSUnmcQ0NWctrsgvQfp70tTCVjdnss51-nPAijxsk&s",Gtv(Star share)
 http://starshare.live:8080/live/Sylvia/Sylvia/767.m3u8
