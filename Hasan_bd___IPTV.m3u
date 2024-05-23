@@ -263,9 +263,6 @@ https://mhdtvweb.com/sony/watch.php?id=1000009258&e=.m3u8
 #EXTINF:-1 group-title="Hindy Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHC48SZoY6K6qpWGzfHz5O6uKJNJ1jUhg4QQ&s",Sony Kal
 https://spt-sonykal-1-us.lg.wurl.tv/playlist_512k.m3u8
 
-#EXTINF:-1 group-title="Hindy Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlMDsNQOYYAlQWOqtSiYETiTbLxvChR4TFESrQHGneS7V72NiGTJTE0uQ&s",Star Plus 4k
-http://xtv.ooo:8080/adnankb2006/86057314/66208
-
 #EXTINF:-1 group-title="Hindy Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlMDsNQOYYAlQWOqtSiYETiTbLxvChR4TFESrQHGneS7V72NiGTJTE0uQ&s",Star Plus
 http://xtv.ooo:8080/adnankb2006/86057314/221252
 
@@ -288,7 +285,7 @@ http://watchindia.net:8880/live/83023/62335/830.m3u8
 http://watchindia.net:8880/live/83023/62335/2493.m3u8
 
 #EXTINF:-1 group-title="Hindy Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4Gi8cbdmFCuVzO21B6_AMkSH_5sEjUO4qvzagp8lRMpfjVoXwlk-0ics&s",&Tv
-http://xtv.ooo:8080/adnankb2006/86057314/66172
+http://xtv.ooo:8080/15155419/16175512/221253
 
 #EXTINF:-1 group-title="Hindy Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqGC39qcE_8F0ttGDwKSklR0x97wcYpY38dpHF9e_cVQ&s",Zee Anmool
 http://watchindia.net:8880/live/83023/62335/813.m3u8
