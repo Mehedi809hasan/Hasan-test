@@ -524,7 +524,7 @@ http://tv.cloudcdn.me/live.ts?channelId=117&uid=8164&deviceMac=00:1A:79:17:D4:A1
 http://filex.tv:8080/live/mndr111/mndr111/298467.ts
 
 #EXTINF:-1 group-title="kolkata Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQse8o46jzAUKwQ3LNcpwBan0crIL-J5Sbwhfhe3lJydw&s",Sony Aath
-http://proxym3u.watchtv.best:80/play/live.php?mac=00:1A:79:55:A7:EA&stream=1112197&extension=ts&play_token=JPnYgs9s7A
+http://watchindia.net:8880/live/83023/62335/2286.ts
 
 #EXTINF:-1 group-title="kolkata Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvUl7jdv9-BM05x47IFvMFJJly-Qb9LR7qhgC_TRIpp2y4N2OeViVOXM4&s",ABP Ananda
 http://195.26.87.217/live.ts?channelId=40480&uid=7435&deviceMac=00:1A:79:51:4B:3A
