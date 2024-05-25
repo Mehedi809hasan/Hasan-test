@@ -264,6 +264,9 @@ http://xtv.ooo:8080/15155419/16175512/221251
 #EXTINF:-1 group-title="Hindy Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHMI9mhAWSRdeLXjaxzLtOZyDD59lpYRR4S2l_eJDEmg&s",Sony max
 http://xtv.ooo:8080/adnankb2006/86057314/66179
 
+#EXTINF:-1 group-title="Hindy Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-SqJKPCiQJD4JWoDwz7F8DETCYgS1WW_oE2nB8aW4iA&s",sony Max 2
+http://195.26.87.217/live.ts?channelId=183&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
 #EXTINF:-1 group-title="Hindy Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsjPPFmz4B3iN2GJ8V95sLoxdLd_K40XHPgw&s",Sony Pix
 http://195.26.87.217/live.ts?channelId=189&uid=7435&deviceMac=00:1A:79:51:4B:3A
 
