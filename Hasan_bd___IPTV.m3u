@@ -116,7 +116,7 @@ http://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/chunks.m
 http://watchindia.net:8880/live/83023/62335/2113.m3u8
 
 #EXTINF:-1 group-title="Bollywood Music" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6rNL-ClZJUB-HNi-rkYoHmNm9HJRFwUca8d1d76gUJ89kGRer9AMUp0c&s",B4U Plus
-http://watchindia.net:8880/live/83023/62335/823.m3u8
+http://195.26.87.217/live.ts?channelId=154&uid=7435&deviceMac=00:1A:79:51:4B:3A
 
 #EXTINF:-1 group-title="Bollywood Music" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ1wKiL_ZndY4Ndl96WaFcSAp6_asb6nMocvGFg581WggLWXXw3_EiF9s&s",Kadak Hits
 http://watchindia.net:8880/live/83023/62335/798.m3u8
