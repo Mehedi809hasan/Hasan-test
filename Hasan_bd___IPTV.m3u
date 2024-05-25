@@ -344,8 +344,11 @@ http://xtv.ooo:8080/adnankb2006/86057314/222818
 #EXTINF:-1 group-title="Bollywood Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRizyJWcut8jUoR1-MvlvjMeR_FdSm3ZYZ9I0VR2e0SQA&s",Colour Cineplex
 http://xtv.ooo:8080/15155419/16175512/104191
 
-#EXTINF:-1 group-title="Bollywood Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRizyJWcut8jUoR1-MvlvjMeR_FdSm3ZYZ9I0VR2e0SQA&s",Colour Cineplex(bollywood)
+#EXTINF:-1 group-title="Bollywood Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRizyJWcut8jUoR1-MvlvjMeR_FdSm3ZYZ9I0VR2e0SQA&s",Colours bollywood
 http://195.26.87.217/live.ts?channelId=62412&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 group-title="Bollywood Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRizyJWcut8jUoR1-MvlvjMeR_FdSm3ZYZ9I0VR2e0SQA&s",Colours superhits
+http://195.26.87.217/live.ts?channelId=62413&uid=7435&deviceMac=00:1A:79:51:4B:3A
 
 #EXTINF:-1 group-title="Bollywood Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC8gCE6Dib3aBFBHEXhvDICfwwbKa1Ht7lkZwwZ3c4Pw&s",Boglee Bollywood
 http://xtv.ooo:8080/malik625538/digitalstore1year/206045
