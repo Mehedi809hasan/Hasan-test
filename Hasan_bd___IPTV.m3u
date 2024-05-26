@@ -344,6 +344,9 @@ http://xtv.ooo:8080/malik625538/digitalstore1year/112973
 #EXTINF:-1 group-title="Bollywood Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAdKH5dggcZUoJ6ewav5DMKJffp11PIS7bKA&s",Tata Play Bollywood
 http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:A2:C2:86&stream=156028&extension=m3u8&play_token=EjRbwmymO9
 
+#EXTINF:-1 group-title="Bollywood Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvkYzuTtOzfA8yfQCYL_ydk2qD-AXR7evMCTnHKrDL7g&s",Tata Evergreen Movie
+http://clientsportals.com:2095/play/live.php?mac=00:1A:79:C6:CF:6D&stream=759828&extension=ts
+
 #EXTINF:-1 group-title="Bollywood Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1pdSs0gXyZuVPCKfqEzdrt4KGW3BkO-xV6_UtSbSocJIQATYHLeRx1ck&s",Monoranjan Movie
 http://watchindia.net:8880/live/83023/62335/804.m3u8
 
