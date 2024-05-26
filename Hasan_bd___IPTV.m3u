@@ -202,6 +202,9 @@ http://homeip.biz/tipsVOD24/7/index.m3u8?token=f42398b964f9039f6f905eb3d6ad53af
 #EXTINF:-1 group-title="Bollywood Music" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdVVSaflhurcP6M41Zrd-qAZZIj0X0Z2-XkeT0rci4-w&s",Old is gold
 http://homeip.biz/oigvod247/index.m3u8?token=5738b7362986fa4257c1c50af4877da7
 
+#EXTINF:-1 group-title="Bollywood Music" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZoQei4j-T0KJ55CSWGyWf1FUyPd5uqUUN8L0Jgom6hw&s",Shameroo filmy Ganna
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/shemaroo-filmigaane/c80a70b7-08fa-4f36-8578-88a3da022708/0.m3u8
+
 #EXTINF:-1 group-title="Bollywood Music" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDXZ-vTnAEMH_JmiCIWrHWnTLdhm_y3T6ZPyuR9nkKaQ&s",Zee Music Lyric
 http://homeip.biz/zecVOD24/7/index.m3u8?token=fb7580754d6e58927b723beb841c6344
 
