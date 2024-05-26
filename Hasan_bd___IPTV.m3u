@@ -443,6 +443,9 @@ http://210.210.155.35/uq2663/h/h192/index.m3u8
 #EXTINF:-1 group-title="Hollywood Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc4EC30w6jW9rU4jcqG6j22EdbZA_vUZ-gla5S5nbzekUe3srZOcGlKlg&s",Action Hollywood
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
 
+#EXTINF:-1 group-title="Hollywood Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQahwuHBGuO9IQluDP6h0iJTFtFE3CguSTRP9YsGj91qg&s",Action Hollywood movie
+https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
+
 #EXTINF:-1 group-title="Hollywood Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaubDwJx5zN0dLC4dwa2EpN-7-z7SR6wDDh3IbMWngng&s",Hollywood HD
 http://iptv.prosto.tv:7000/ch50/video.m3u8
 
