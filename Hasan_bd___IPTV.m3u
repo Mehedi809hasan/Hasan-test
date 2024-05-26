@@ -327,6 +327,12 @@ http://watchindia.net:8880/live/83023/62335/1970.m3u8
 #EXTINF:-1 group-title="Hindy Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTQ6yuAQjkReeqSALJgQ-IEOfzTsWGil9d58uBOL684GgF2xanRsc6HV8&s",Zee zest
 http://watchindia.net:8880/live/83023/62335/2359.m3u8
 
+#EXTINF:-1 group-title="Hindy Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQILqELjs1VxbIHeGHKrmXxQXE7MSFLsTIRiobUE2M5_cAwO8OmYTfNJyg&s",Star Gold Thrills
+http://proxym3u.watchtv.best:80/play/live.php?mac=00:1A:79:55:A7:EA&stream=155996&extension=ts&play_token=uuRCjwbhZb
+
+#EXTINF:-1 group-title="Hindy Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlxPbPrzR-sKzubBTs_s8JQHN7A3LL5PECS0mbynEknw&s",Star Gold Romance
+http://proxym3u.watchtv.best:80/play/live.php?mac=00:1A:79:55:A7:EA&stream=156033&extension=ts&play_token=iDtXmdOCH2
+
 
 
 
