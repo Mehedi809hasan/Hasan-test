@@ -584,8 +584,8 @@ https://ythls.armelin.one/channel/UCqyt55f3byoK8rjgO0LBe4Q.m3u8
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://vipotv.com/wp-content/uploads/2021/04/ekattor-tv-live-vipotv.png",71 Tv
 http://homeip.biz/BD_Ekattortv/mpegts?token=f6638a44ef7cbd40a12f79e36c4b43ce
 
-#EXTINF:-1 group-title="bangladeshi" tvg-logo="https://i0.wp.com/www.somoynews.tv/icon.png?w=640&ssl=1",Somay Tv palky
-http://cdn01.palki.tv:80/live/SomoyTV-M/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="bangladeshi" tvg-logo="https://i0.wp.com/www.somoynews.tv/icon.png?w=640&ssl=1",Somay Tv
+http://homeip.biz/BD_SOMOYNEWSTV/index.m3u8?token=8b79924c3d3acc7f7e64e077887fa31d
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://yt3.googleusercontent.com/6HDLsKKFbUIuEMbMP-f5RJ3m6kitqb-5MC9bxf4RfmoamWg0uEktC6nFjDt73m1CSkuK3NXm=s900-c-k-c0x00ffffff-no-rj",Channel 24
 http://cdn01.palki.tv:80/live/Channel24-M/tracks-v1a1/mono.m3u8
