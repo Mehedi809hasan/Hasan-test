@@ -576,7 +576,7 @@ http://filex.tv:8080/live/mndr111/mndr111/288253.ts
 https://bdixtv247.techpriyo.com/m3u/jadolist2.php?id=nagorik_tv
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSabCnWkpZ-Y9jYp8VxzZKabYNNwuDAXGejNY_SenBSIA&s",BTV
-http://cdn01.palki.tv/live/BTV-M/index.m3u8
+http://filex.tv:8080/live/mndr111/mndr111/288255.ts
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQv9gznpcRF67C1f_PLBNaETO6F_KDkObwEuBzrLEy2WQ&s",Desh tv(yt)
 https://ythls.armelin.one/channel/UCqyt55f3byoK8rjgO0LBe4Q.m3u8
