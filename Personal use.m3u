@@ -15,6 +15,8 @@ https://server7.milodi.xyz/download/NjY1NThhNzhiNDhiYTEzNWMwZTc2NjAxLm1rdkAxMDMu
 #EXTINF:-1 group-title="News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR780O4gZoIU9rqtcL98ZLk83hkmZlMW2_nJ3Y6Qtz19A&s",FoxNews
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 
+
+
 #EXTINF:-1 group-title="News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHBORxixweYtf9mf0kLbbKliOrlJ3u1KfruNm8W0uTzg&s",RT(Russia Today)News
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 
