@@ -1,4 +1,3 @@
-
 #EXTM3U
 
 
@@ -79,7 +78,7 @@ http://watchindia.net:8880/live/83023/62335/815.m3u8
 https://bdixtv247.techpriyo.com/m3u/jadolist2.php?id=nagorik_tv
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSabCnWkpZ-Y9jYp8VxzZKabYNNwuDAXGejNY_SenBSIA&s",BTV
-http://filex.tv:8080/live/mndr111/mndr111/288255.ts
+http://proxym3u.watchtv.best:80/play/live.php?mac=00:1A:79:55:A7:EA&stream=165534&extension=ts&play_token=HP582Na4FD
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQv9gznpcRF67C1f_PLBNaETO6F_KDkObwEuBzrLEy2WQ&s",Desh tv(yt)
 https://ythls.armelin.one/channel/UCqyt55f3byoK8rjgO0LBe4Q.m3u8
