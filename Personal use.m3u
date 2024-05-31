@@ -709,6 +709,9 @@ http://starshare.live:8080/Jenny/Jenny/271038
 #EXTINF:-1 group-title="kolkata Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJzql2ho7Uf6NZB1pMeW_4wMIaNiqDvzC8BA&s",Jalsha Movies a(Auto quality)
 http://tv.cloudcdn.me/live.ts?channelId=117&uid=8164&deviceMac=00:1A:79:17:D4:A1
 
+#EXTINF:-1 group-title="kolkata Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSiWyytHhFckwM7FRFsyjhXY8iyOVVCDMXu1URZCdenA&s",Rupasy Bangla
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:BF:0D:F6&stream=225769&extension=ts&play_token=hbKoNOlESY
+
 #EXTINF:-1 group-title="kolkata Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPYHe3s0wlLn4C3ZOtA89LNuYzdoaw9hzrxBOzX7JsUSoxHUOrLy74KQI&s",Sangeet Bangla
 http://xtv.ooo:8080/live/adnankb2006/86057314/245933.ts
 
