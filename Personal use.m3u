@@ -74,6 +74,9 @@ http://watchindia.net:8880/live/83023/62335/815.m3u8
 
 
 
+#EXTINF:-1 group-title="VIP Premium" tvg-logo="https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/7b638c02-91e3-43d2-8d58-fdf8b33acf3e/1439a125-8b15-409d-b9ca-710e1270eb0c.png?width=300", Bongo Dramas
+https://tgaadi-web.tech/trex.php?tv=225843
+
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBiLCO-M0O7QV4okY6QhRMhQ2FLUbT8NOGV_Bqkc8IkEN8W9A_J1ZgMg&s",Nagorik Tv
 https://bdixtv247.techpriyo.com/m3u/jadolist2.php?id=nagorik_tv
 
