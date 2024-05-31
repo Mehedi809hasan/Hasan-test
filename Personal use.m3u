@@ -77,8 +77,17 @@ http://watchindia.net:8880/live/83023/62335/815.m3u8
 
 
 
+
+
+
 #EXTINF:-1 group-title="VIP Premium" tvg-logo="https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/7b638c02-91e3-43d2-8d58-fdf8b33acf3e/1439a125-8b15-409d-b9ca-710e1270eb0c.png?width=300", Bongo Dramas
 https://tgaadi-web.tech/trex.php?tv=225843
+
+
+
+
+
+
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBiLCO-M0O7QV4okY6QhRMhQ2FLUbT8NOGV_Bqkc8IkEN8W9A_J1ZgMg&s",Nagorik Tv
 https://bdixtv247.techpriyo.com/m3u/jadolist2.php?id=nagorik_tv
@@ -93,7 +102,7 @@ https://ythls.armelin.one/channel/UCqyt55f3byoK8rjgO0LBe4Q.m3u8
 http://homeip.biz/BD_Ekattortv/mpegts?token=f6638a44ef7cbd40a12f79e36c4b43ce
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://i0.wp.com/www.somoynews.tv/icon.png?w=640&ssl=1",Somay Tv
-http://homeip.biz/BD_SOMOYNEWSTV/index.m3u8?token=8b79924c3d3acc7f7e64e077887fa31d
+http://homeip.biz/BD_SOMOYNEWSTV/index.m3u8?token=4713a608bfe715fd53dc0a7e94401fa9
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://yt3.googleusercontent.com/6HDLsKKFbUIuEMbMP-f5RJ3m6kitqb-5MC9bxf4RfmoamWg0uEktC6nFjDt73m1CSkuK3NXm=s900-c-k-c0x00ffffff-no-rj",Channel 24
 http://proxym3u.watchtv.best:80/play/live.php?mac=00:1A:79:55:A7:EA&stream=225735&extension=ts&play_token=0tWkmBWRUi
