@@ -467,13 +467,13 @@ https://spt-sonykal-1-us.lg.wurl.tv/playlist_512k.m3u8
 http://proxym3u.watchtv.best:80/play/live.php?mac=00:1A:79:55:A7:EA&stream=156039&extension=ts&play_token=TCLM3Pm0MX
 
 #EXTINF:-1 group-title="Hindy Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlMDsNQOYYAlQWOqtSiYETiTbLxvChR4TFESrQHGneS7V72NiGTJTE0uQ&s",Star Plus
-http://xtv.ooo:8080/adnankb2006/86057314/221252
+http://proxym3u.watchtv.best:80/play/live.php?mac=00:1A:79:55:A7:EA&stream=280767&extension=ts&play_token=YQ2POOqORy
 
 #EXTINF:-1 group-title="Hindy Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtl46d2KYT63yj2mQRCRFz98_JQyeFqeF9GrOEmjFuIjb5iTYmRIveukw&s",Sony Sab
-http://xtv.ooo:8080/adnankb2006/86057314/221256
+http://proxym3u.watchtv.best:80/play/live.php?mac=00:1A:79:55:A7:EA&stream=280764&extension=ts&play_token=5NOq2lROHN
 
 #EXTINF:-1 group-title="Hindy Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu1r2ijy07km5OkL7Z7w6KitmgmYuREBbaPUf9Yp160w&s",Sony Pal
-http://xtv.ooo:8080/adnankb2006/86057314/104192
+http://proxym3u.watchtv.best:80/play/live.php?mac=00:1A:79:55:A7:EA&stream=156101&extension=ts&play_token=iJ6F4DNZLL
 
 #EXTINF:-1 group-title="Hindy Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdwfEKNgAOiu-6RXNsFjPhs1kQ2LMfZeFC_WEAswTn4g&s",Star India
 http://103.120.172.74:5200
