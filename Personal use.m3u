@@ -781,7 +781,7 @@ https://humsab.xyz/GBanTv/index.m3u8
 http://xtv.ooo:8080/adnankb2006/86057314/167590
 
 #EXTINF:-1 group-title="sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6FQiMUVJcO5Ff0N4RsyjjHvDAqfQz7aLtQw&usqp=CAU",star sports 1 Hindy
-http://41.205.93.154/STARSPORTS1/index.m3u8
+http://proxym3u.watchtv.best:80/play/live.php?mac=00:1A:79:55:A7:EA&stream=155967&extension=ts&play_token=XEZGZ4syjI
 
 #EXTINF:-1 group-title="sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIpl8Di6Y0ONKKp1w-4IapgZV-E6CtajvbTBn60UJ9Sg&s",Ptv sports
 http://xtv.ooo:8080/malik625538/digitalstore1year/167567
