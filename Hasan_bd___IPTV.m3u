@@ -106,7 +106,8 @@ https://tgaadi-web.tech/trex.php?tv=225843
 #EXTINF:-1 group-title="VIP Premium" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxIo3hs1ROI3GoqPtBn_CyVIjItCNFfzaQdw&s",Hotstar
 http://proxym3u.watchtv.best:80/play/live.php?mac=00:1A:79:55:A7:EA&stream=636448&extension=ts&play_token=yaIummOswa
 
-
+#EXTINF:-1 group-title="VIP Premium" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5JJlLKsmHkzVWSwtxRVvvNVH_7gf9iNkrgexEuGIuvEBxaohQd4AWGGA&s",zee5
+http://proxym3u.watchtv.best:80/play/live.php?mac=00:1A:79:55:A7:EA&stream=636384&extension=ts&play_token=YRj2tTssXB
 
 
 
