@@ -411,6 +411,12 @@ http://homeip.biz/zecVOD24/7/index.m3u8?token=fb7580754d6e58927b723beb841c6344
 
 
 
+
+
+
+#EXTINF:-1 group-title="Hindy music (singer wise)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrbPDsJNTCXugGjYhgPqZ2rAi7IL6VeiMJUP_D6Cg8sw&s",Alka Yagnik
+http://proxym3u.watchtv.best:80/play/live.php?mac=00:1A:79:55:A7:EA&stream=636107&extension=ts&play_token=u0gFXJqMvf
+
 #EXTINF:-1 group-title="Hindy music (singer wise)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj4kUa78wsKo4LH5hVy91wKMaZ4wi4k6pTtg&usqp=CAU",Vishal Mishra
 http://homeip.biz/vishalVOD24/7/index.m3u8?token=5ddb416cfd6f4c98eba05f3aec05a865
 
