@@ -115,7 +115,7 @@ http://proxym3u.watchtv.best:80/play/live.php?mac=00:1A:79:55:A7:EA&stream=63638
 
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBiLCO-M0O7QV4okY6QhRMhQ2FLUbT8NOGV_Bqkc8IkEN8W9A_J1ZgMg&s",Nagorik Tv
-https://bdixtv247.techpriyo.com/m3u/jadolist2.php?id=nagorik_tv
+https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=nagorik_tv
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSabCnWkpZ-Y9jYp8VxzZKabYNNwuDAXGejNY_SenBSIA&s",BTV
 http://proxym3u.watchtv.best:80/play/live.php?mac=00:1A:79:55:A7:EA&stream=165534&extension=ts&play_token=HP582Na4FD
