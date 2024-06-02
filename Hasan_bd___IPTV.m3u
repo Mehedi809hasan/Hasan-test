@@ -839,7 +839,7 @@ http://homeip.biz/AR_WE/mpegts?token=f23a72fdf0ff745dea8db37f6b34f449
 http://tv.cloudcdn.me:80/live.ts?channelId=4244&uid=3960&deviceMac=00:1A:79:09:AC:16
 
 #EXTINF:-1 group-title="sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJK_ptS-wVAAK4_UlJQs15oIq5We8iviWBhDtcAzCDz4mazvEBnYcJuZo&s",GTv
-https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=gazi_tv_hd
+https://edge01.iptv.digijadoo.net/live/gazi_tv_hd/chunks.m3u8?expires=1717549152&md5=BO-gzLdFYBfdASWxj5QeCw&user=c15be118d93a464dabf77260596012cf
 
 #EXTINF:-1 group-title="sports" tvg-logo="https://i0.wp.com/eptv.goomflix.xyz/logos-gf/tsports.png?w=640",T Sports(auto quality)
 https://humsab.xyz/GBanTv/index.m3u8
