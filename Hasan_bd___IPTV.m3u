@@ -118,7 +118,7 @@ http://proxym3u.watchtv.best:80/play/live.php?mac=00:1A:79:55:A7:EA&stream=63638
 https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=nagorik_tv
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSabCnWkpZ-Y9jYp8VxzZKabYNNwuDAXGejNY_SenBSIA&s",BTV
-http://proxym3u.watchtv.best:80/play/live.php?mac=00:1A:79:55:A7:EA&stream=165534&extension=ts&play_token=HP582Na4FD
+https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=btv_world
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQv9gznpcRF67C1f_PLBNaETO6F_KDkObwEuBzrLEy2WQ&s",Desh tv(yt)
 https://ythls.armelin.one/channel/UCqyt55f3byoK8rjgO0LBe4Q.m3u8
@@ -130,10 +130,10 @@ http://homeip.biz/BD_Ekattortv/mpegts?token=f6638a44ef7cbd40a12f79e36c4b43ce
 https://livess.ncare.live/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://yt3.googleusercontent.com/6HDLsKKFbUIuEMbMP-f5RJ3m6kitqb-5MC9bxf4RfmoamWg0uEktC6nFjDt73m1CSkuK3NXm=s900-c-k-c0x00ffffff-no-rj",Channel 24
-http://proxym3u.watchtv.best:80/play/live.php?mac=00:1A:79:55:A7:EA&stream=225735&extension=ts&play_token=0tWkmBWRUi
+https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=channel_24
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/BIJOY_TV_Logo_BD.png/640px-BIJOY_TV_Logo_BD.png",Bijoy Tv
-http://proxym3u.watchtv.best:80/play/live.php?mac=00:1A:79:55:A7:EA&stream=225730&extension=ts&play_token=sRHTIIZ9pe
+https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=bijoy_tv
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/Ekhon_Logo.png",Ekhon Tv
 https://raw.githubusercontent.com/gift4bd/ytm/main/EkhonTV.m3u8
@@ -148,10 +148,10 @@ https://livess.ncare.live/live-orgin/deeptotv.stream/chunks.m3u8
 http://homeip.biz/Bangla_NTV/mpegts?token=45861ad8afaabd2d0900c8ca7a0f3524
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Banglavision.svg/1200px-Banglavision.svg.png",Bangla Vison
-http://proxym3u.watchtv.best:80/play/live.php?mac=00:1A:79:55:A7:EA&stream=225729&extension=ts&play_token=o2kehIH9iJ
+https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=bangla_vision
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://vipotv.com/wp-content/uploads/2021/01/EkusheyTv-live-vipotv.png",Ekushey Tv
-http://proxym3u.watchtv.best:80/play/live.php?mac=00:1A:79:55:A7:EA&stream=225791&extension=ts&play_token=g2aSJcDYS7
+https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=ekushey_tv
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/94/Mohona_tv_Logo.svg/640px-Mohona_tv_Logo.svg.png",Mohona tv
 http://xtv.ooo:8080/live/adnankb2006/86057314/245920.ts
@@ -214,7 +214,7 @@ https://live.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 https://livess.ncare.live/live-orgin/atnislamictv.stream/chunks.m3u8
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://i0.wp.com/seeklogo.com/images/A/atn-news-logo-6A3E3EC072-seeklogo.com.png?w=640&ssl=1",Atn news
-http://proxym3u.watchtv.best:80/play/live.php?mac=00:1A:79:55:A7:EA&stream=165527&extension=ts&play_token=INH8wwVKT3
+https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=atn_news
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://www.jagobd.com/wp-content/uploads/2015/12/atnmusic.jpg?x50681",Atn Music
 https://live.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnmusic.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS83LzIwMjQgNDoxNjo1NyBQTSZoYXNoX3ZhbHVlPXZKcVBOZUprcGF6ZmJNTkZmWmgyVlE9PSZ2YWxpZG1pbnV0ZXM9NDA=
