@@ -145,7 +145,7 @@ http://homeip.biz/BD_Ekattortv/mpegts?token=f6638a44ef7cbd40a12f79e36c4b43ce
 https://livess.ncare.live/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://yt3.googleusercontent.com/6HDLsKKFbUIuEMbMP-f5RJ3m6kitqb-5MC9bxf4RfmoamWg0uEktC6nFjDt73m1CSkuK3NXm=s900-c-k-c0x00ffffff-no-rj",Channel 24
-https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=channel_24
+http://tv.cloudcdn.me:80/live.ts?channelId=87&uid=3960&deviceMac=00:1A:79:09:AC:16
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/BIJOY_TV_Logo_BD.png/640px-BIJOY_TV_Logo_BD.png",Bijoy Tv
 https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=bijoy_tv
