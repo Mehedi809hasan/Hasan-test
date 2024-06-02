@@ -836,7 +836,7 @@ http://filex.tv:8080/live/mndr111/mndr111/288253.ts
 http://homeip.biz/AR_WE/mpegts?token=f23a72fdf0ff745dea8db37f6b34f449
 
 #EXTINF:-1 group-title="sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1qoQsifGyIi_3uRsq-zHeyoxpvMRRy46L6GZgqpgBrA&s",WWE(Dhoom)
-http://homeip.biz/wwe/index.m3u8?token=4e84a840bcd510c4cefb2b9553549164
+http://tv.cloudcdn.me:80/live.ts?channelId=4244&uid=3960&deviceMac=00:1A:79:09:AC:16
 
 #EXTINF:-1 group-title="sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJK_ptS-wVAAK4_UlJQs15oIq5We8iviWBhDtcAzCDz4mazvEBnYcJuZo&s",GTv
 https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=gazi_tv_hd
