@@ -130,7 +130,7 @@ https://tgaadi-web.tech/trex.php?tv=225843
 
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBiLCO-M0O7QV4okY6QhRMhQ2FLUbT8NOGV_Bqkc8IkEN8W9A_J1ZgMg&s",Nagorik Tv
-https://edge01.iptv.digijadoo.net/live/nagorik_tv/chunks.m3u8?expires=1717557468&md5=ObDyAB3NYIQsRvI34wHOvQ&user=c15be118d93a464dabf77260596012cf
+https://edge01.iptv.digijadoo.net/live/nagorik_tv/playlist.m3u8?md5=ObDyAB3NYIQsRvI34wHOvQ&expires=1717557468&user=c15be118d93a464dabf77260596012cf
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSabCnWkpZ-Y9jYp8VxzZKabYNNwuDAXGejNY_SenBSIA&s",BTV
 http://xtv.ooo:8080/live/mahendra44/mhnd1234/245930.m3u8
