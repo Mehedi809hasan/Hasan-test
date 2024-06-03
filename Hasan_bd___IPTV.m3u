@@ -172,7 +172,7 @@ http://tv.cloudcdn.me:80/live.ts?channelId=96&uid=9592&deviceMac=00:1A:79:82:85:
 http://xtv.ooo:8080/live/adnankb2006/86057314/245920.ts
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Independent_Television_Logo.svg/1200px-Independent_Television_Logo.svg.png",Independent tv
-http://195.26.87.217/live.ts?channelId=99&uid=7435&deviceMac=00:1A:79:51:4B:3A
+https://edge01.iptv.digijadoo.net/live/independent_tv/playlist.m3u8?md5=5Q8BmUCLbHIxaKws5KV8kg&expires=1717597230&user=c15be118d93a464dabf77260596012cf
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQchZAPCjHqBtrE_nsGQ5XGB-Bm9kelCvrcJYbKz1oYiQ&s",Jamuna Tv
 https://livess.ncare.live/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8
