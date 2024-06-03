@@ -143,8 +143,8 @@ https://edge01.iptv.digijadoo.net/live/nagorik_tv/playlist.m3u8?md5=00ztiUsa4ZBm
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSabCnWkpZ-Y9jYp8VxzZKabYNNwuDAXGejNY_SenBSIA&s",BTV
 http://xtv.ooo:8080/live/mahendra44/mhnd1234/245930.m3u8
 
-#EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQv9gznpcRF67C1f_PLBNaETO6F_KDkObwEuBzrLEy2WQ&s",Desh tv(yt)
-https://ythls.armelin.one/channel/UCqyt55f3byoK8rjgO0LBe4Q.m3u8
+#EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQv9gznpcRF67C1f_PLBNaETO6F_KDkObwEuBzrLEy2WQ&s",Desh tv
+https://edge01.iptv.digijadoo.net/live/desh_tv/playlist.m3u8?md5=oCHvcZAuR2_jV32lYsoMHw&expires=1717646090&user=c15be118d93a464dabf77260596012cf
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://vipotv.com/wp-content/uploads/2021/04/ekattor-tv-live-vipotv.png",71 Tv
 http://195.26.87.217/live.ts?channelId=95&uid=7435&deviceMac=00:1A:79:51:4B:3A
