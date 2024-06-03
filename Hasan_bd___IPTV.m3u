@@ -753,7 +753,7 @@ http://filex.tv:8080/live/mndr111/mndr111/288258.ts
 https://otttv.co.in/dishtv/playlist.m3u8?id=zee-bangla-hd&vtoken=&e=.m3u8
 
 #EXTINF:-1 group-title="kolkata Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqEfe_Y8wD20ImQyMeJncHsSvpkBVwI98zZ_EVctkeOQ&s",zee bangla cinema
-http://filex.tv:8080/live/mndr111/mndr111/288399.ts
+https://otttv.co.in/dishtv/playlist.m3u8?id=zee-bangla-cinema&vtoken=&e=.m3u8
 
 #EXTINF:-1 group-title="kolkata Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnqI-6WS45nFkM6P4rpTEb9C4PFy7WcR7FgOVYY_CBjg&s",Star jalsha
 http://opplex.tv:8080/live/223322/223322/245898.m3u8
