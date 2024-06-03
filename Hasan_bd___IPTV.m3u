@@ -321,7 +321,8 @@ https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 
 
 
-
+#EXTINF:-1 group-title="Bollywood Music" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQTkL4nhuHw-dTWeicsuinEo80vuABa-cP_VlLcsfXGQ&s",Saga Music(panjab)
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/saga-music/cfcb1fac-45e6-41b9-9fda-7222847d1f4c/5.m3u8
 
 #EXTINF:-1 group-title="Bollywood Music" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZoQei4j-T0KJ55CSWGyWf1FUyPd5uqUUN8L0Jgom6hw&s",Shamaroo Filmy Gaana
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/shemaroo-filmigaane/04529bfd-4abb-41d8-8aaf-f307cb224e9a/0.m3u8
