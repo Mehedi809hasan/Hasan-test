@@ -781,8 +781,8 @@ https://live.sunbanglacinema.in/sunbanglacinema/index.m3u8
 #EXTINF:-1 group-title="kolkata Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzSzHRpxXk0avaaVCcwUXkTdNSvFqs48sc6PwfKZxI6NINaHv97qBEBmU&s",Colours Bangla
 http://filex.tv:8080/live/mndr111/mndr111/288275.ts
 
-#EXTINF:-1 group-title="kolkata Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqboVHNgHDgABF03Yt8RqTfU3VKqS96TJJ03_VGaFO_fNUtoNyi5Q9ASo&usqp=CAE&s",Colours Bangla Cinema(star share)
-http://starshare.live:8080/Jenny/Jenny/271038
+#EXTINF:-1 group-title="kolkata Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqboVHNgHDgABF03Yt8RqTfU3VKqS96TJJ03_VGaFO_fNUtoNyi5Q9ASo&usqp=CAE&s",Colours Bangla Cinema
+http://tv.mototvlive.net:8880/live/1256%40%23zx/1256%40%23zxv/13888.ts
 
 #EXTINF:-1 group-title="kolkata Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJzql2ho7Uf6NZB1pMeW_4wMIaNiqDvzC8BA&s",Jalsha Movies a(Auto quality)
 http://tv.cloudcdn.me/live.ts?channelId=117&uid=8164&deviceMac=00:1A:79:17:D4:A1
