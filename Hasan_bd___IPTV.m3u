@@ -54,6 +54,10 @@ https://shy-wave-4ba0.pivetac382.workers.dev/ce9659b131ee900b3c51d0e8e95321a8/in
 
 
 
+
+
+
+
 #EXTINF:-1 group-title="News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR780O4gZoIU9rqtcL98ZLk83hkmZlMW2_nJ3Y6Qtz19A&s",FoxNews
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 
@@ -132,6 +136,8 @@ http://tv.mototvlive.net:8880/live/1256%40%23zx/1256%40%23zxv/16568.ts
 
 #EXTINF:-1 group-title="vip premium" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs4-7TtCRJvMZRzrNcw4rxCavoAEmIXrjRog&s",Bongo Dramas
 https://tgaadi-web.tech/trex.php?tv=225843
+
+
 
 
 
@@ -318,6 +324,9 @@ http://185.243.7.154:80/play/live.php?mac=00:1A:79:AE:69:8E&stream=225811&extens
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://www.deshitv.com/images//bangla_logo/DeshTV24-BanglaLogo.png",Deshy Tv
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
+
+
+
 
 
 
@@ -759,7 +768,8 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbhojpuri/default/index.m3u8
 #EXTINF:-1 group-title="Bhojpuri" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsD9NYz3ItkUYl90ntkziDYP-Yn3XgDmhZIEpBtJlinV_hqmj2ZpRxfvw&s",Bhojpuri cinema
 http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:BF:0D:F6&stream=282598&extension=ts&play_token=4byGR9cPIu
 
-
+#EXTINF:-1 group-title="Bhojpuri" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7z6ekLtHnkkrMUeDzqwKkBLDcqvUtUooPuQ&usqp=CAU",Bhojpuri Junction
+https://fifabangladesh.live/@RANAPKX73/stream.m3u8?id=2229&e=.m3u8
 
 
 
