@@ -144,6 +144,8 @@ https://tgaadi-web.tech/trex.php?tv=225843
 
 
 
+#EXTINF:-1 group-title="bangladeshi" tvg-logo="https://nowmetv.com/wp-content/uploads/2023/10/GTV.webp
+https://edge01.iptv.digijadoo.net/live/gazi_tv_hd/playlist.m3u8?md5=kCResrPsgp1BuWBp87C0Ig&expires=1717644975&user=c15be118d93a464dabf77260596012cf
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://yt3.ggpht.com/uhGad55HCzzfNO4xSj91zoWBWnfKAFTmv4ibYFsJNhRPFmakBmB47HgNdDyLsmuLY67VAi3fRg=s88-c-k-c0x00ffffff-no-rj",News24
 https://edge01.iptv.digijadoo.net/live/news_24_hd/playlist.m3u8?md5=qbk8mXy3Ho7m8bm29uetpg&expires=1717644810&user=c15be118d93a464dabf77260596012cf
@@ -876,9 +878,6 @@ http://homeip.biz/AR_WE/mpegts?token=f23a72fdf0ff745dea8db37f6b34f449
 
 #EXTINF:-1 group-title="sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1qoQsifGyIi_3uRsq-zHeyoxpvMRRy46L6GZgqpgBrA&s",WWE(Dhoom)
 http://tv.cloudcdn.me:80/live.ts?channelId=4244&uid=3960&deviceMac=00:1A:79:09:AC:16
-
-#EXTINF:-1 group-title="sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJK_ptS-wVAAK4_UlJQs15oIq5We8iviWBhDtcAzCDz4mazvEBnYcJuZo&s",GTv
-https://edge01.iptv.digijadoo.net/live/gazi_tv_hd/playlist.m3u8?md5=kCResrPsgp1BuWBp87C0Ig&expires=1717644975&user=c15be118d93a464dabf77260596012cf
 
 #EXTINF:-1 group-title="sports" tvg-logo="https://i0.wp.com/eptv.goomflix.xyz/logos-gf/tsports.png?w=640",T Sports(auto quality)
 https://humsab.xyz/GBanTv/index.m3u8
